@@ -6,6 +6,8 @@
 
 **Time budget assumption:** Mon–Fri, 09:00–15:30, bottoms-up (no fixed entity split yet). Calendar is authoritative for actual availability — this list is the demand side.
 
+**Weekly cycle anchor:** Friday 16:00–16:20, calendar title "MLRCC Weekly Progress Check-In." Despite the title, this is Michele's all-entity weekly review, not MLRCC-specific — prep against this whole roadmap before it, and block the next week across all entities right after.
+
 **Prioritization rule applied below:** (1) hard external deadlines, (2) cross-entity blockers, (3) everything else in rough sequence per source doc. Items needing your judgment call are flagged **[DECIDE]**.
 
 ---
@@ -117,3 +119,4 @@ Both items above are funds-dependent this weekend. **[DECIDE]** Block both tenta
 - 2026-09-18: Added a Personal section and first item: renew Liam's ID, preferred Saturday morning, conditional on funds.
 - 2026-09-18: Reclassified the MLRCC item as a fractional COO role pending the other side's response to the 2026 project proposal, with 2027 terms to follow — moved out of "this week" framing since it is not in Michele's control right now.
 - 2026-09-18: Added a second Personal item: find an au pair this weekend, conditional on funds (site signup required). Grouped with Liam's ID renewal as a single funds-dependent judgment call.
+- 2026-09-18: Corrected the weekly cycle anchor description — the Friday 16:00–16:20 "MLRCC Weekly Progress Check-In" is Michele's all-entity weekly review despite its calendar title, not an MLRCC-specific meeting.
