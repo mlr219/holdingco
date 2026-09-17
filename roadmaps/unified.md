@@ -47,6 +47,8 @@ Full 44-item list carries forward from `dbc.md` unchanged, organized Oct (Decisi
 **New items (added 2026-09-18):**
 - Update the LTOS (Long-Term Operating Strategy) — due tomorrow (Sept 18).
 - Update the 2026 action plan — due tomorrow (Sept 18).
+- Add the filters Dennis suggested to the existing file, then share with Viola. **[DECIDE]** Which file — not specified yet.
+- Write function/department strategies — sequenced after LTOS update and after the Brand/Marketing/Service/Distribution/Supply Chain/Logistics Guidelines (dbc.md items 12–22, November).
 
 ### Martini Pomanti — Aug 2026 through 2032
 Non-vineyard items (legal, entity, property, launch milestones) carry forward from `martini-pomanti.md` unchanged, phased by milestone banners (Vineyard Winter Prep → Renovation Loan Secured → Property Kickoff → 2027 Harvest Complete → Spring 2028 Launch → Fall 2032 Rosso). Only the Tier 1/2 items above are near-term planning-relevant; the rest is directional.
@@ -96,9 +98,11 @@ Full list carries forward from `ied-course-prep.md` unchanged. Fashion System tr
 3. Once MLRCC negotiation closes, MLRCC's Week 1–4 onboarding tasks will compress into whatever's left of the current week — may need explicit re-prioritization against DBC's October deadlines.
 4. **IED example material (item 23)** — student redo, Dennis, or Valtoria's project. Decide which route once you know if Valtoria is kicking off.
 5. **MLRCC website scope** — new/rebuilt site, or an update to the existing one? Determines whether this is a small task or its own workstream.
+6. **DBC filters file** — which file are Dennis's suggested filters going into? Needed before I can schedule and hand off to Viola.
 
 ## Change Log
 - 2026-09-17: Synthesized from the four per-entity drafts into one unified, tiered view for weekly planning. Per-entity files remain the source of record; this file is the planning view.
 - 2026-09-17: Harvest confirmed complete, no production this year. Removed harvest/winemaking items from Tier 1. Michele to share an annual vineyard maintenance timeline as the recurring basis for Martini Pomanti seasonal planning.
 - 2026-09-17: Added the annual vineyard care cycle (13 tasks, Dec–Nov) from `Annual_Care_Breakdown_2026.xlsx` as the recurring basis for Martini Pomanti seasonal vineyard work, replacing the harvest-specific milestone framing in that section.
 - 2026-09-18: Added new items across DBC (LTOS update, 2026 action plan update), MLRCC (outreach strategy session and pipelines, Upwork/Malt evaluation, CRM setup, Pierre/SAG follow-up, webinars, website), IED (method decision on item 23 example material), and Martini Pomanti (administrative catch-up: tax filings, fascicolo).
+- 2026-09-18: Added DBC items: Dennis's suggested filters (add to file, share with Viola — file TBD) and function/department strategies (sequenced after LTOS and guideline documents).
