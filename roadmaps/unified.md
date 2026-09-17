@@ -33,14 +33,20 @@
 | DBC | Define SEO strategy for 2027 | Site content rework (Dec) |
 | DBC | Review/renegotiate courier contract | Site relaunch |
 | Martini Pomanti | Formalize E's role/compensation, O's role, begin agronomist + commercialista search | Farmer classification path, all downstream legal/finance work |
+| Martini Pomanti | Bring administrative items current: tax filings, fascicolo, other outstanding compliance paperwork | Clean books/compliance status ahead of 2027 harvest and any renovation loan process |
 | MLRCC | Confirm company's home market(s) | Which director institute(s) apply |
 | MLRCC | Build director-specific bio, join director institute(s) | Board search progress |
+| MLRCC | Strategy session: review outreach targets and their products | Outreach pipeline setup (including Upwork, Malt platform evaluation) |
 | IED | IED decision on Fashion Org/Commercialization structure (as-is vs. restructured) | **[DECIDE-EXTERNAL]** Everything in that track below it — explicitly a decision gate, not yours to resolve, just track it |
 
 ## TIER 3 — Sequenced work (per source doc order, entity-tagged)
 
 ### Dennis Botanic Collection (DBC) — Oct–Dec 2026
-Full 44-item list carries forward from `dbc.md` unchanged, organized Oct (Decisions/Frameworks) → Nov (Guidelines/AOPs) → Dec (Content/Handovers/Final Plans). Not duplicated here in full — see source file. Owner is almost entirely Michele (+ Dennis, + Web Agency for site rebuild).
+Full 44-item list carries forward from `dbc.md` unchanged, organized Oct (Decisions/Frameworks) → Nov (Guidelines/AOPs) → Dec (Content/Handovers/Final Plans). Not duplicated here in full — see source file. Owner is almost entirely Michele (+ Dennis, + Web Agency for site rebuild). Brand/Marketing/Service/Distribution/Supply Chain/Logistics Guidelines are already in the November items (12–22) — no new item needed there.
+
+**New items (added 2026-09-18):**
+- Update the LTOS (Long-Term Operating Strategy) — due tomorrow (Sept 18).
+- Update the 2026 action plan — due tomorrow (Sept 18).
 
 ### Martini Pomanti — Aug 2026 through 2032
 Non-vineyard items (legal, entity, property, launch milestones) carry forward from `martini-pomanti.md` unchanged, phased by milestone banners (Vineyard Winter Prep → Renovation Loan Secured → Property Kickoff → 2027 Harvest Complete → Spring 2028 Launch → Fall 2032 Rosso). Only the Tier 1/2 items above are near-term planning-relevant; the rest is directional.
@@ -66,10 +72,20 @@ Non-vineyard items (legal, entity, property, launch milestones) carry forward fr
 **2026 status:** harvest complete, no production this year. Rippatura last done approximately 2024, so not due this cycle (3–5 year interval). Remaining 2026 window (through year-end) is dormancy-prep only — deferred pruning-prep steps ahead of Potatura Secca. Full active cycle resumes at Potatura Secca, Dec 2026.
 
 ### MLRCC — COO-era (28 items)
-Full list carries forward from `mlrcc-coo-era.md` unchanged. Weeks 1–4 onboarding/redirect items follow directly once negotiation (Tier 1) closes. Foundation-phase items (newsletter, articles, board search groundwork) are ongoing/background once triggered.
+Full list carries forward from `mlrcc-coo-era.md` unchanged. Weeks 1–4 onboarding/redirect items follow directly once negotiation (Tier 1) closes. Foundation-phase items (newsletter, articles, board search groundwork) are ongoing/background once triggered. Bi-weekly article cadence and website publishing are already covered by items 10–11 — no new item there.
+
+**New items (added 2026-09-18):**
+- Strategy session: review outreach targets and their products (prerequisite — see Tier 2).
+- Set up outreach pipelines, including evaluating Upwork and Malt as platforms. Sequenced after the strategy session above.
+- Set up CRM management. Sequenced after outreach pipelines are defined, since the pipeline structure should drive what the CRM needs to track.
+- Follow up with Pierre (client, SAG) — confirm whether he wants to finalize the narrative.
+- Webinars — new workstream, not yet scoped.
+- Website — new workstream, not yet scoped. **[DECIDE]** Is this a new/rebuilt MLRCC site, or an update to the existing one referenced in item 11? Scope depends on the answer.
 
 ### IED — Course Prep 2026–27 (32 items)
 Full list carries forward from `ied-course-prep.md` unchanged. Fashion System track (items 1–15) is task-level urgent given the Nov 2 deadline. Fashion Org/Commercialization track (16–32) is gated on IED's decision — hold at "submit both options" until they respond.
+
+**Open item:** item 23 (create example material for commercialization concepts) needs a method decision **[DECIDE]** — have a student redo theirs, ask Dennis to produce one, or use Valtoria's if that project kicks off.
 
 ---
 
@@ -78,8 +94,11 @@ Full list carries forward from `ied-course-prep.md` unchanged. Fashion System tr
 1. ~~Martini Pomanti harvest timing vs. MLRCC negotiation~~ — resolved: harvest is complete, no production this year. MLRCC negotiation is now the sole Tier 1 item this week.
 2. **IED registrar exam dates** — not on your calendar yet; needs you to chase this directly, I can't infer it.
 3. Once MLRCC negotiation closes, MLRCC's Week 1–4 onboarding tasks will compress into whatever's left of the current week — may need explicit re-prioritization against DBC's October deadlines.
+4. **IED example material (item 23)** — student redo, Dennis, or Valtoria's project. Decide which route once you know if Valtoria is kicking off.
+5. **MLRCC website scope** — new/rebuilt site, or an update to the existing one? Determines whether this is a small task or its own workstream.
 
 ## Change Log
 - 2026-09-17: Synthesized from the four per-entity drafts into one unified, tiered view for weekly planning. Per-entity files remain the source of record; this file is the planning view.
 - 2026-09-17: Harvest confirmed complete, no production this year. Removed harvest/winemaking items from Tier 1. Michele to share an annual vineyard maintenance timeline as the recurring basis for Martini Pomanti seasonal planning.
 - 2026-09-17: Added the annual vineyard care cycle (13 tasks, Dec–Nov) from `Annual_Care_Breakdown_2026.xlsx` as the recurring basis for Martini Pomanti seasonal vineyard work, replacing the harvest-specific milestone framing in that section.
+- 2026-09-18: Added new items across DBC (LTOS update, 2026 action plan update), MLRCC (outreach strategy session and pipelines, Upwork/Malt evaluation, CRM setup, Pierre/SAG follow-up, webinars, website), IED (method decision on item 23 example material), and Martini Pomanti (administrative catch-up: tax filings, fascicolo).
