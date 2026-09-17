@@ -19,8 +19,6 @@
 | IED | Submit both syllabus options (as-is + restructured) to IED | **Dec 1, 2026** | Fashion Org/Commercialization track. |
 | DBC | Sign off Brand/Customer/Organization Manifesto with Dennis | October 2026 | Foundation — all DBC guidelines and AOPs reference this. |
 | DBC | Build 2027 commercial calendar with Dennis | October 2026 | All other DBC functions align to this before AOPs can be written. |
-| Martini Pomanti | Execute harvest | **This week (urgent)** | "Everything else depends on this." |
-| Martini Pomanti | Begin in-house winemaking immediately after harvest | This week (urgent) | Time-sensitive, tied to harvest. |
 | Martini Pomanti | Replace dead vines / redo trellis / treat gramigna / fertilize / prune / insert wire rods | Autumn 2026 (seasonal window) | Must happen in the autumn window or lost for a year. |
 | Martini Pomanti | Draft agreements (Giovanni, winemaker); confirm registro telematico; bottling compliance; Confagricoltura dues | Autumn 2026 | Must be in place before 2027 harvest. |
 | MLRCC | Review offer against negotiation terms | Monday (this week) | Time-boxed negotiation window. |
@@ -47,6 +45,8 @@ Full 44-item list carries forward from `dbc.md` unchanged, organized Oct (Decisi
 ### Martini Pomanti — Aug 2026 through 2032
 Full 55-item list carries forward from `martini-pomanti.md` unchanged, phased by milestone banners (Harvest Complete → Vineyard Winter Prep → Renovation Loan Secured → Property Kickoff → 2027 Harvest Complete → Spring 2028 Launch → Fall 2032 Rosso). Longest horizon of the four — only the Tier 1/2 items above are near-term planning-relevant; the rest is directional.
 
+**Update (2026-09-17):** Harvest is complete; there is no production this year. Harvest and immediate post-harvest winemaking items are removed from Tier 1. Michele will share an annual vineyard maintenance timeline to use as the recurring basis for this entity's seasonal work going forward — once received, replace the phased milestone structure above with that timeline.
+
 ### MLRCC — COO-era (28 items)
 Full list carries forward from `mlrcc-coo-era.md` unchanged. Weeks 1–4 onboarding/redirect items follow directly once negotiation (Tier 1) closes. Foundation-phase items (newsletter, articles, board search groundwork) are ongoing/background once triggered.
 
@@ -57,9 +57,10 @@ Full list carries forward from `ied-course-prep.md` unchanged. Fashion System tr
 
 ## Open judgment calls for Michele **[DECIDE]**
 
-1. **Martini Pomanti harvest timing** — this is the most time-critical item across all four entities right now ("this week," everything else depends on it). Does it take priority over MLRCC negotiation timing this week, or do they run in parallel?
+1. ~~Martini Pomanti harvest timing vs. MLRCC negotiation~~ — resolved: harvest is complete, no production this year. MLRCC negotiation is now the sole Tier 1 item this week.
 2. **IED registrar exam dates** — not on your calendar yet; needs you to chase this directly, I can't infer it.
 3. Once MLRCC negotiation closes, MLRCC's Week 1–4 onboarding tasks will compress into whatever's left of the current week — may need explicit re-prioritization against DBC's October deadlines.
 
 ## Change Log
 - 2026-09-17: Synthesized from the four per-entity drafts into one unified, tiered view for weekly planning. Per-entity files remain the source of record; this file is the planning view.
+- 2026-09-17: Harvest confirmed complete, no production this year. Removed harvest/winemaking items from Tier 1. Michele to share an annual vineyard maintenance timeline as the recurring basis for Martini Pomanti seasonal planning.
