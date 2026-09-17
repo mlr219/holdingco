@@ -21,8 +21,7 @@
 | DBC | Build 2027 commercial calendar with Dennis | October 2026 | All other DBC functions align to this before AOPs can be written. |
 | Martini Pomanti | Replace dead vines / redo trellis / treat gramigna / fertilize / prune / insert wire rods | Autumn 2026 (seasonal window) | Must happen in the autumn window or lost for a year. |
 | Martini Pomanti | Draft agreements (Giovanni, winemaker); confirm registro telematico; bottling compliance; Confagricoltura dues | Autumn 2026 | Must be in place before 2027 harvest. |
-| MLRCC | Review offer against negotiation terms | Monday (this week) | Time-boxed negotiation window. |
-| MLRCC | Negotiate and finalize terms / legal review before signing | This week | Sequenced hard deadline ahead of signature. |
+| MLRCC | Fractional COO role — waiting on their response to the 2026 project proposal | Pending, not in Michele's control | 2027 conditions get negotiated only after they respond on the rest of 2026. No action for Michele until they reply — track as a waiting item, not a this-week task. |
 
 ## TIER 2 — Cross-entity blockers (unblock downstream work in the same or another entity)
 
@@ -98,9 +97,9 @@ Full list carries forward from `ied-course-prep.md` unchanged. Fashion System tr
 
 ## Open judgment calls for Michele **[DECIDE]**
 
-1. ~~Martini Pomanti harvest timing vs. MLRCC negotiation~~ — resolved: harvest is complete, no production this year. MLRCC negotiation is now the sole Tier 1 item this week.
+1. ~~Martini Pomanti harvest timing vs. MLRCC negotiation~~ — resolved: harvest is complete, no production this year. The MLRCC negotiation itself turned out to be waiting on the other side, not a this-week task for Michele (see Tier 1), so there is no longer a live conflict here.
 2. **IED registrar exam dates** — not on your calendar yet; needs you to chase this directly, I can't infer it.
-3. Once MLRCC negotiation closes, MLRCC's Week 1–4 onboarding tasks will compress into whatever's left of the current week — may need explicit re-prioritization against DBC's October deadlines.
+3. MLRCC's Week 1–4 onboarding tasks depend on the other side responding to the 2026 project proposal, with no known date. No action needed now — revisit prioritization against DBC's October deadlines once they respond.
 4. **IED example material (item 23)** — student redo, Dennis, or Valtoria's project. Decide which route once you know if Valtoria is kicking off.
 5. **MLRCC website scope** — new/rebuilt site, or an update to the existing one? Determines whether this is a small task or its own workstream.
 6. **DBC filters file** — which file are Dennis's suggested filters going into? Needed before I can schedule and hand off to Viola.
@@ -114,3 +113,4 @@ Full list carries forward from `ied-course-prep.md` unchanged. Fashion System tr
 - 2026-09-18: Added DBC items: Dennis's suggested filters (add to file, share with Viola — file TBD) and function/department strategies (sequenced after LTOS and guideline documents).
 - 2026-09-18: Added recurring cadence items: quarterly client meetings (DBC first, to be set up after Monday's Dennis call) and a Neos Wave alignment call one month ahead of each quarterly meeting.
 - 2026-09-18: Added a Personal section and first item: renew Liam's ID, preferred Saturday morning, conditional on funds.
+- 2026-09-18: Reclassified the MLRCC item as a fractional COO role pending the other side's response to the 2026 project proposal, with 2027 terms to follow — moved out of "this week" framing since it is not in Michele's control right now.
