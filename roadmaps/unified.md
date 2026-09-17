@@ -6,7 +6,7 @@
 
 **Time budget assumption:** Mon–Fri, 09:00–15:30, bottoms-up (no fixed entity split yet). Calendar is authoritative for actual availability — this list is the demand side.
 
-**Weekly cycle anchor:** Friday 16:00–16:20, calendar title "MLRCC Weekly Progress Check-In." Despite the title, this is Michele's all-entity weekly review, not MLRCC-specific — prep against this whole roadmap before it, and block the next week across all entities right after.
+**Weekly cycle anchor:** Thursday 16:00–16:20, "Weekly Progress Check-In (All Entities)" (renamed from "MLRCC Weekly Progress Check-In" — it was always Michele's all-entity review, not MLRCC-specific). Moved from Friday to Thursday so Friday is fully free for content work and other items. Prep against this whole roadmap before it, and block the next week across all entities right after. Assumes Thursday is a late pickup day (day ends ~17:30); revisit if that assumption turns out wrong. One-off transition review held Friday Sept 18, 09:00–09:20; the Thursday cadence starts Sept 24.
 
 **Prioritization rule applied below:** (1) hard external deadlines, (2) cross-entity blockers, (3) everything else in rough sequence per source doc. Items needing your judgment call are flagged **[DECIDE]**.
 
@@ -119,4 +119,5 @@ Both items above are funds-dependent this weekend. **[DECIDE]** Block both tenta
 - 2026-09-18: Added a Personal section and first item: renew Liam's ID, preferred Saturday morning, conditional on funds.
 - 2026-09-18: Reclassified the MLRCC item as a fractional COO role pending the other side's response to the 2026 project proposal, with 2027 terms to follow — moved out of "this week" framing since it is not in Michele's control right now.
 - 2026-09-18: Added a second Personal item: find an au pair this weekend, conditional on funds (site signup required). Grouped with Liam's ID renewal as a single funds-dependent judgment call.
-- 2026-09-18: Corrected the weekly cycle anchor description — the Friday 16:00–16:20 "MLRCC Weekly Progress Check-In" is Michele's all-entity weekly review despite its calendar title, not an MLRCC-specific meeting.
+- 2026-09-18: Corrected the weekly cycle anchor description — the meeting is Michele's all-entity weekly review despite its former "MLRCC" calendar title, not an MLRCC-specific meeting.
+- 2026-09-18: Moved the weekly review from Friday to Thursday 16:00–16:20 on the calendar, renamed it "Weekly Progress Check-In (All Entities)," and removed the Friday 9:00–12:00 content block so all of Friday is open for content and other items. Held a one-off transition review Friday Sept 18, 09:00–09:20; Thursday cadence starts Sept 24. Assumes Thursdays are late pickup days.
