@@ -49,6 +49,8 @@ Full 44-item list carries forward from `dbc.md` unchanged, organized Oct (Decisi
 - Update the 2026 action plan — due tomorrow (Sept 18).
 - Add the filters Dennis suggested to the existing file, then share with Viola. **[DECIDE]** Which file — not specified yet.
 - Write function/department strategies — sequenced after LTOS update and after the Brand/Marketing/Service/Distribution/Supply Chain/Logistics Guidelines (dbc.md items 12–22, November).
+- Set up recurring quarterly client meeting on the calendar, starting after Monday's call with Dennis. This is the first client this cadence applies to; extend to other clients later as they come on.
+- Set up recurring Neos Wave alignment call, one month ahead of each quarterly Dennis meeting, to confirm Neos is on track for the quarter.
 
 ### Martini Pomanti — Aug 2026 through 2032
 Non-vineyard items (legal, entity, property, launch milestones) carry forward from `martini-pomanti.md` unchanged, phased by milestone banners (Vineyard Winter Prep → Renovation Loan Secured → Property Kickoff → 2027 Harvest Complete → Spring 2028 Launch → Fall 2032 Rosso). Only the Tier 1/2 items above are near-term planning-relevant; the rest is directional.
@@ -106,3 +108,4 @@ Full list carries forward from `ied-course-prep.md` unchanged. Fashion System tr
 - 2026-09-17: Added the annual vineyard care cycle (13 tasks, Dec–Nov) from `Annual_Care_Breakdown_2026.xlsx` as the recurring basis for Martini Pomanti seasonal vineyard work, replacing the harvest-specific milestone framing in that section.
 - 2026-09-18: Added new items across DBC (LTOS update, 2026 action plan update), MLRCC (outreach strategy session and pipelines, Upwork/Malt evaluation, CRM setup, Pierre/SAG follow-up, webinars, website), IED (method decision on item 23 example material), and Martini Pomanti (administrative catch-up: tax filings, fascicolo).
 - 2026-09-18: Added DBC items: Dennis's suggested filters (add to file, share with Viola — file TBD) and function/department strategies (sequenced after LTOS and guideline documents).
+- 2026-09-18: Added recurring cadence items: quarterly client meetings (DBC first, to be set up after Monday's Dennis call) and a Neos Wave alignment call one month ahead of each quarterly meeting.
