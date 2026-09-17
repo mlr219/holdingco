@@ -91,6 +91,9 @@ Full list carries forward from `ied-course-prep.md` unchanged. Fashion System tr
 
 **Open item:** item 23 (create example material for commercialization concepts) needs a method decision **[DECIDE]** — have a student redo theirs, ask Dennis to produce one, or use Valtoria's if that project kicks off.
 
+### Personal (Michele, not entity-attributable)
+- Renew Liam's ID. Preferred timing: Saturday morning, conditional on funds being available. **[DECIDE]** Confirm funds before I put this on the calendar, or block Saturday morning tentatively now and confirm/cancel closer in?
+
 ---
 
 ## Open judgment calls for Michele **[DECIDE]**
@@ -101,6 +104,7 @@ Full list carries forward from `ied-course-prep.md` unchanged. Fashion System tr
 4. **IED example material (item 23)** — student redo, Dennis, or Valtoria's project. Decide which route once you know if Valtoria is kicking off.
 5. **MLRCC website scope** — new/rebuilt site, or an update to the existing one? Determines whether this is a small task or its own workstream.
 6. **DBC filters file** — which file are Dennis's suggested filters going into? Needed before I can schedule and hand off to Viola.
+7. **Liam's ID renewal** — block Saturday morning tentatively now and confirm/cancel once you know about funds, or wait to confirm funds first before it goes on the calendar? My recommendation: block it tentatively now, since a held slot is easy to release but a missed Saturday means waiting another week.
 
 ## Change Log
 - 2026-09-17: Synthesized from the four per-entity drafts into one unified, tiered view for weekly planning. Per-entity files remain the source of record; this file is the planning view.
@@ -109,3 +113,4 @@ Full list carries forward from `ied-course-prep.md` unchanged. Fashion System tr
 - 2026-09-18: Added new items across DBC (LTOS update, 2026 action plan update), MLRCC (outreach strategy session and pipelines, Upwork/Malt evaluation, CRM setup, Pierre/SAG follow-up, webinars, website), IED (method decision on item 23 example material), and Martini Pomanti (administrative catch-up: tax filings, fascicolo).
 - 2026-09-18: Added DBC items: Dennis's suggested filters (add to file, share with Viola — file TBD) and function/department strategies (sequenced after LTOS and guideline documents).
 - 2026-09-18: Added recurring cadence items: quarterly client meetings (DBC first, to be set up after Monday's Dennis call) and a Neos Wave alignment call one month ahead of each quarterly meeting.
+- 2026-09-18: Added a Personal section and first item: renew Liam's ID, preferred Saturday morning, conditional on funds.
