@@ -91,7 +91,10 @@ Full list carries forward from `ied-course-prep.md` unchanged. Fashion System tr
 **Open item:** item 23 (create example material for commercialization concepts) needs a method decision **[DECIDE]** — have a student redo theirs, ask Dennis to produce one, or use Valtoria's if that project kicks off.
 
 ### Personal (Michele, not entity-attributable)
-- Renew Liam's ID. Preferred timing: Saturday morning, conditional on funds being available. **[DECIDE]** Confirm funds before I put this on the calendar, or block Saturday morning tentatively now and confirm/cancel closer in?
+- Renew Liam's ID. Preferred timing: Saturday morning, conditional on funds being available.
+- Find an au pair. Target: this weekend. Conditional on funds, since it requires signing up (paying) for a site first.
+
+Both items above are funds-dependent this weekend. **[DECIDE]** Block both tentatively now and confirm/cancel once funds are known, or wait to confirm funds first before either goes on the calendar? My recommendation: block both tentatively, since a held slot costs nothing to release and both windows (Saturday morning; this weekend) are narrow.
 
 ---
 
@@ -102,7 +105,7 @@ Full list carries forward from `ied-course-prep.md` unchanged. Fashion System tr
 3. MLRCC's Week 1–4 onboarding tasks depend on the other side responding to the 2026 project proposal, with no known date. No action needed now — revisit prioritization against DBC's October deadlines once they respond.
 4. **IED example material (item 23)** — student redo, Dennis, or Valtoria's project. Decide which route once you know if Valtoria is kicking off.
 5. **MLRCC website scope** — new/rebuilt site, or an update to the existing one? Determines whether this is a small task or its own workstream.
-6. **Liam's ID renewal** — block Saturday morning tentatively now and confirm/cancel once you know about funds, or wait to confirm funds first before it goes on the calendar? My recommendation: block it tentatively now, since a held slot is easy to release but a missed Saturday means waiting another week.
+6. **Liam's ID renewal and au pair search** — both funds-dependent this weekend. Block both tentatively now and confirm/cancel once funds are known, or wait to confirm funds first? My recommendation: block both tentatively now, since a held slot is easy to release but a missed weekend means waiting another week for both.
 
 ## Change Log
 - 2026-09-17: Synthesized from the four per-entity drafts into one unified, tiered view for weekly planning. Per-entity files remain the source of record; this file is the planning view.
@@ -113,3 +116,4 @@ Full list carries forward from `ied-course-prep.md` unchanged. Fashion System tr
 - 2026-09-18: Added recurring cadence items: quarterly client meetings (DBC first, to be set up after Monday's Dennis call) and a Neos Wave alignment call one month ahead of each quarterly meeting.
 - 2026-09-18: Added a Personal section and first item: renew Liam's ID, preferred Saturday morning, conditional on funds.
 - 2026-09-18: Reclassified the MLRCC item as a fractional COO role pending the other side's response to the 2026 project proposal, with 2027 terms to follow — moved out of "this week" framing since it is not in Michele's control right now.
+- 2026-09-18: Added a second Personal item: find an au pair this weekend, conditional on funds (site signup required). Grouped with Liam's ID renewal as a single funds-dependent judgment call.
