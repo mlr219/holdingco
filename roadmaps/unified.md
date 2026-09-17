@@ -46,7 +46,7 @@ Full 44-item list carries forward from `dbc.md` unchanged, organized Oct (Decisi
 **New items (added 2026-09-18):**
 - Update the LTOS (Long-Term Operating Strategy) — due tomorrow (Sept 18).
 - Update the 2026 action plan — due tomorrow (Sept 18).
-- Add the filters Dennis suggested to the existing file, then share with Viola. **[DECIDE]** Which file — not specified yet.
+- Add the filters Dennis suggested to the existing file, then share with Viola.
 - Write function/department strategies — sequenced after LTOS update and after the Brand/Marketing/Service/Distribution/Supply Chain/Logistics Guidelines (dbc.md items 12–22, November).
 - Set up recurring quarterly client meeting on the calendar, starting after Monday's call with Dennis. This is the first client this cadence applies to; extend to other clients later as they come on.
 - Set up recurring Neos Wave alignment call, one month ahead of each quarterly Dennis meeting, to confirm Neos is on track for the quarter.
@@ -102,15 +102,14 @@ Full list carries forward from `ied-course-prep.md` unchanged. Fashion System tr
 3. MLRCC's Week 1–4 onboarding tasks depend on the other side responding to the 2026 project proposal, with no known date. No action needed now — revisit prioritization against DBC's October deadlines once they respond.
 4. **IED example material (item 23)** — student redo, Dennis, or Valtoria's project. Decide which route once you know if Valtoria is kicking off.
 5. **MLRCC website scope** — new/rebuilt site, or an update to the existing one? Determines whether this is a small task or its own workstream.
-6. **DBC filters file** — which file are Dennis's suggested filters going into? Needed before I can schedule and hand off to Viola.
-7. **Liam's ID renewal** — block Saturday morning tentatively now and confirm/cancel once you know about funds, or wait to confirm funds first before it goes on the calendar? My recommendation: block it tentatively now, since a held slot is easy to release but a missed Saturday means waiting another week.
+6. **Liam's ID renewal** — block Saturday morning tentatively now and confirm/cancel once you know about funds, or wait to confirm funds first before it goes on the calendar? My recommendation: block it tentatively now, since a held slot is easy to release but a missed Saturday means waiting another week.
 
 ## Change Log
 - 2026-09-17: Synthesized from the four per-entity drafts into one unified, tiered view for weekly planning. Per-entity files remain the source of record; this file is the planning view.
 - 2026-09-17: Harvest confirmed complete, no production this year. Removed harvest/winemaking items from Tier 1. Michele to share an annual vineyard maintenance timeline as the recurring basis for Martini Pomanti seasonal planning.
 - 2026-09-17: Added the annual vineyard care cycle (13 tasks, Dec–Nov) from `Annual_Care_Breakdown_2026.xlsx` as the recurring basis for Martini Pomanti seasonal vineyard work, replacing the harvest-specific milestone framing in that section.
 - 2026-09-18: Added new items across DBC (LTOS update, 2026 action plan update), MLRCC (outreach strategy session and pipelines, Upwork/Malt evaluation, CRM setup, Pierre/SAG follow-up, webinars, website), IED (method decision on item 23 example material), and Martini Pomanti (administrative catch-up: tax filings, fascicolo).
-- 2026-09-18: Added DBC items: Dennis's suggested filters (add to file, share with Viola — file TBD) and function/department strategies (sequenced after LTOS and guideline documents).
+- 2026-09-18: Added DBC items: Dennis's suggested filters (add to file, share with Viola) and function/department strategies (sequenced after LTOS and guideline documents).
 - 2026-09-18: Added recurring cadence items: quarterly client meetings (DBC first, to be set up after Monday's Dennis call) and a Neos Wave alignment call one month ahead of each quarterly meeting.
 - 2026-09-18: Added a Personal section and first item: renew Liam's ID, preferred Saturday morning, conditional on funds.
 - 2026-09-18: Reclassified the MLRCC item as a fractional COO role pending the other side's response to the 2026 project proposal, with 2027 terms to follow — moved out of "this week" framing since it is not in Michele's control right now.
