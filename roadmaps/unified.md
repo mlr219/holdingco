@@ -63,7 +63,7 @@ Non-vineyard items (legal, entity, property, launch milestones) carry forward fr
 | Sept – Oct | Vendemmia (Harvest) | Production — pick ripe Barbera grapes | Manual or Machine |
 | Nov (post-harvest) | Rippatura (Subsoiling) | Drainage — break compacted soil (every 3–5 years) | Machine |
 
-**2026 status:** harvest complete, no production this year. Remaining 2026 window (through year-end) is dormancy-prep only — Rippatura (if due this cycle) and any deferred pruning-prep steps. Full active cycle resumes at Potatura Secca, Dec 2026.
+**2026 status:** harvest complete, no production this year. Rippatura last done approximately 2024, so not due this cycle (3–5 year interval). Remaining 2026 window (through year-end) is dormancy-prep only — deferred pruning-prep steps ahead of Potatura Secca. Full active cycle resumes at Potatura Secca, Dec 2026.
 
 ### MLRCC — COO-era (28 items)
 Full list carries forward from `mlrcc-coo-era.md` unchanged. Weeks 1–4 onboarding/redirect items follow directly once negotiation (Tier 1) closes. Foundation-phase items (newsletter, articles, board search groundwork) are ongoing/background once triggered.
