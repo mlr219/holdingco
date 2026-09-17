@@ -43,9 +43,27 @@
 Full 44-item list carries forward from `dbc.md` unchanged, organized Oct (Decisions/Frameworks) → Nov (Guidelines/AOPs) → Dec (Content/Handovers/Final Plans). Not duplicated here in full — see source file. Owner is almost entirely Michele (+ Dennis, + Web Agency for site rebuild).
 
 ### Martini Pomanti — Aug 2026 through 2032
-Full 55-item list carries forward from `martini-pomanti.md` unchanged, phased by milestone banners (Harvest Complete → Vineyard Winter Prep → Renovation Loan Secured → Property Kickoff → 2027 Harvest Complete → Spring 2028 Launch → Fall 2032 Rosso). Longest horizon of the four — only the Tier 1/2 items above are near-term planning-relevant; the rest is directional.
+Non-vineyard items (legal, entity, property, launch milestones) carry forward from `martini-pomanti.md` unchanged, phased by milestone banners (Vineyard Winter Prep → Renovation Loan Secured → Property Kickoff → 2027 Harvest Complete → Spring 2028 Launch → Fall 2032 Rosso). Only the Tier 1/2 items above are near-term planning-relevant; the rest is directional.
 
-**Update (2026-09-17):** Harvest is complete; there is no production this year. Harvest and immediate post-harvest winemaking items are removed from Tier 1. Michele will share an annual vineyard maintenance timeline to use as the recurring basis for this entity's seasonal work going forward — once received, replace the phased milestone structure above with that timeline.
+**Annual vineyard care cycle (recurring, source: `Annual_Care_Breakdown_2026.xlsx`)** — replaces the harvest-specific milestone items in `martini-pomanti.md` as the recurring basis for seasonal vineyard work. Re-anchor to this cycle every year regardless of that year's production status:
+
+| Timing | Task (Italian / English) | Purpose | Method |
+|---|---|---|---|
+| Dec – Feb | Potatura Secca (Dry Pruning) | Structure — select fruit cane for next year | Manual |
+| Feb – March | Concimazione (Fertilizing) | Nutrition — replenish soil | Machine |
+| March | Legatura (Tying) | Positioning — tie fruit cane to wires | Manual |
+| April – May | Spollonatura (De-suckering) | Energy focus — remove trunk shoots | Manual or Machine |
+| April – Aug | Trinciatura (Mulching) | Weed control between rows | Machine (e.g. Dragone) |
+| May – June | Palizzatura (Tucking) | Support — tuck shoots into trellis | Manual |
+| May – Aug | Trattamenti (Spraying) | Health — sulfur/copper vs. mildew | Machine (Atomizer) |
+| June – July | Cimatura (Hedging) | Microclimate — trim shoot tops | Machine or Manual |
+| June – July | Sfemminellatura (Sucker Removal) | Airflow — remove lateral shoots | Manual |
+| July | Sfogliatura (Defoliation) | Ripening — expose grapes to sun | Manual or Machine |
+| Aug | Diradamento (Green Harvest) | Concentration — cut excess clusters | Manual |
+| Sept – Oct | Vendemmia (Harvest) | Production — pick ripe Barbera grapes | Manual or Machine |
+| Nov (post-harvest) | Rippatura (Subsoiling) | Drainage — break compacted soil (every 3–5 years) | Machine |
+
+**2026 status:** harvest complete, no production this year. Remaining 2026 window (through year-end) is dormancy-prep only — Rippatura (if due this cycle) and any deferred pruning-prep steps. Full active cycle resumes at Potatura Secca, Dec 2026.
 
 ### MLRCC — COO-era (28 items)
 Full list carries forward from `mlrcc-coo-era.md` unchanged. Weeks 1–4 onboarding/redirect items follow directly once negotiation (Tier 1) closes. Foundation-phase items (newsletter, articles, board search groundwork) are ongoing/background once triggered.
@@ -64,3 +82,4 @@ Full list carries forward from `ied-course-prep.md` unchanged. Fashion System tr
 ## Change Log
 - 2026-09-17: Synthesized from the four per-entity drafts into one unified, tiered view for weekly planning. Per-entity files remain the source of record; this file is the planning view.
 - 2026-09-17: Harvest confirmed complete, no production this year. Removed harvest/winemaking items from Tier 1. Michele to share an annual vineyard maintenance timeline as the recurring basis for Martini Pomanti seasonal planning.
+- 2026-09-17: Added the annual vineyard care cycle (13 tasks, Dec–Nov) from `Annual_Care_Breakdown_2026.xlsx` as the recurring basis for Martini Pomanti seasonal vineyard work, replacing the harvest-specific milestone framing in that section.
