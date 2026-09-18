@@ -47,7 +47,7 @@ _Status values: Not Started · In Progress · Blocked · Complete. Update Status
 
 | # | Node | Task | Month | Owner | Status | Notes |
 |---|---|---|---|---|---|---|
-| 28 | Brand | Rework site content (existing articles reformatted, benefit taxonomy applied, SEO-optimized per strategy) | December | Michele + Web Agency | Not Started | Based on SEO strategy defined in October and species mapping confirmed with Dennis. |
+| 28 | Brand | Rework site content (existing articles reformatted, benefit taxonomy applied, SEO-optimized per strategy) | December, ongoing through year-end | Michele + Web Agency | In Progress | Based on SEO strategy defined in October and species mapping confirmed with Dennis. Process: Neos downloads Dennis's existing content and sends it to Michele, who reworks it to fit the site's new buckets and cross-references it against SEO terms. Includes reviving/updating existing articles where possible, alongside net-new content for identified gaps. |
 | 29 | Brand | Build press kit (brand story, product overview, key facts, imagery) | December | Michele | Not Started | Required before any PR outreach begins in Q1 2027. |
 | 30 | Brand | Write Founder Story and publish to site (requires interview with Dennis) | December | Michele + Dennis | Not Started | Anchor credibility content. Part of site content rework. |
 | 31 | Brand | Write and publish Turin partnership content (part of site content rework, shareable for PR) | December | Michele + Dennis | Not Started | Flagship credibility piece. Not a standalone article — integrated into site content. |
