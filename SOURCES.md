@@ -16,3 +16,7 @@ Log of what's in this repo, where it came from, and when it was loaded. Files he
 These six skills are packaged and installed at the account level (see `.skill` files delivered in chat), not loaded per-repo. This file is the canonical source and version history; the account-level install is what actually runs.
 
 `cso.md` is a persona (agent), not a skill — no account-level install exists for agents. It's duplicated by hand into client repos that need it (currently `dennisbotaniccollection`); this copy is the one to edit when the role changes.
+
+| `templates/Discovery_Workbook_Template.xlsx` | Built in-session from four real discovery worksheets (`W01_Product_Discovery.docx`, `W02_Brand_Discovery.docx`, `W03_Organization_Discovery.docx`, `W04_Consumer_Discovery.docx`, uploaded in chat). Question sets and instructions only — the source files were filled in with SAG's actual answers, which are not reproduced here, same confidentiality principle as the LTOS reference example. | 2026-09-18 |
+
+**Note on placement**: `document-house-style.md`, `cso.md`, `senior-leadership-standard.md`, the six LTOS skills, and `templates/Discovery_Workbook_Template.xlsx` are all MLRCC-specific (Michele's consulting practice), not genuinely cross-entity. They're staying in `holdingco` temporarily until the `mlrcc` repo exists, at which point they move down a level. Only `chief-of-staff.md` and `roadmaps/` are actually Holding Co.-level.
