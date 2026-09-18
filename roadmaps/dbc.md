@@ -1,75 +1,56 @@
-# Dennis Botanic Collection — Q4 2026 Action Plan
+# Dennis Botanic Collection — Action Plan
 
 **Entity:** MLR Global → MLRCC → Dennis Botanic Collection (client, Mom&Pop segment)
 
-**Legend:** Scope: October through December 2026 only. 2027 planning extends from this once guidelines and AOPs are complete.
-
-**Correct sequencing (per Michele, 2026-09-18 — supersedes item 2's framing below and the Oct/Nov/Dec phasing generally, pending her full vision timeline rework):** LTOS locks in September → Guidelines are written from the LTOS and manifestos → the Annual Operating Plan breaks the LTOS and guidelines down operationally, node by node → the 2027 commercial calendar is an output of the AOP, not an input to it. Item 2 below has this backwards (calendar in October, ahead of and driving guidelines/AOPs) and needs to move later in the sequence once the full phasing rework lands.
+**Restructured 2026-09-18 per Michele — real methodology, not a flat task list.** No standalone departmental line items (distribution channel criteria, fair selection, etc.) — that granularity lives inside the AOPs and the gap-analysis projects below, not the roadmap itself.
 
 _Status values: Not Started · In Progress · Blocked · Complete. Update Status in place as work moves; note material changes at the bottom under Change Log._
 
-**OCTOBER — Decisions and Frameworks**
+## Sequencing
 
-| # | Node | Task | Month | Owner | Status | Notes |
-|---|---|---|---|---|---|---|
-| 1 | Brand | Sign off Brand Manifesto, Customer Manifesto, and Organization Manifesto with Dennis | October | Michele + Dennis | Not Started | Next Dennis meeting. Foundation for all guidelines that follow. |
-| 2 | Brand | Build 2027 commercial calendar (seasonal moments, planting seasons, fair dates, content themes) | **Sequencing wrong — see note above. Belongs after guidelines and the AOP, not October.** | Michele + Dennis | Not Started | Calendar is an output of the Annual Operating Plan, not an input to it. Hold this item until the AOP work (currently filed under December) is done. |
-| 3 | Marketing | Define SEO strategy for 2027 (keyword priorities per persona, content gaps, site optimization plan) | October, blocked Tue Sept 22 12:30-15:30 (conditional on having Neos's content pulls) | Michele | Not Started | Nadia: benefit-led keywords. Luca: ecological function keywords. Basis for site content rework. Sequenced as: (1) SEO strategy/keywords per persona, (2) content list of articles/how-tos from those keywords, (3) rework existing content for the keywords and draft a list of possible new content. Cross-referencing against the commercial calendar happens later, once that calendar exists (see item 2's sequencing note). |
-| 4 | Product | Resolve rootstock data gaps with Dennis (113 tree-form products missing information) | October | Dennis | Not Started | Blocking accurate product catalog and site content. |
-| 5 | Product | Confirm species-to-ecological-function mapping with Dennis (Soil Builders, Pollinator Support, Erosion Control) | October | Dennis + Michele | Not Started | Required for Luca navigation and content. |
-| 6 | Product | Confirm species-to-health-benefit mapping with Dennis (antioxidant, immunity, digestion, calm) | October | Dennis + Michele | Not Started | Required for Nadia navigation and kit creation. |
-| 7 | Product | Operationalize sourcing criteria from Constitution (simple yes/no decision framework) | October | Michele + Dennis | Not Started | Prevents quality compromise under volume pressure. |
-| 8 | Logistics | Review and renegotiate courier contract | October | Michele + Dennis | Not Started | Current flat-rate is killing conversion. Must be resolved before site relaunch. |
-| 9 | Logistics | Define free shipping threshold (informed by AOV and margin) | October | Michele | Not Started | Applied at checkout in site rebuild. |
-| 10 | Finance | Establish basic financial tracking (revenue by channel, cost tracking) | October | Michele | Not Started | Simple spreadsheet minimum. Required before budget decisions. |
-| 11 | Organization | Define org structure — current state and roles per node | October | Michele | Not Started | Who owns what now. Foundation for briefing agencies and planning 2027 hires. |
+1. **September — Manifestos and Guidelines.** Sign off the Brand/Customer/Organization Manifestos with Dennis, then write guidelines for all areas in one sitting.
+2. **October — Annual Operating Plans.** Write the AOPs for all nodes in one sitting. The 2027 commercial calendar is an output of this, not an input to it — don't build it before the AOPs exist. Departmental detail (channel plans, fair selection, B2B criteria, etc.) lives inside the AOPs, not as separate roadmap items.
+3. **The actual multi-year roadmap** gets built from persona journeys, not assigned top-down:
+   - Finish Vincenzo and Paolo's journey maps (Luca and Nadia's already exist, in `dennisbotaniccollection/knowledge-base/journeys/`).
+   - For each persona, do a gap analysis: what exists today vs. what the journey calls for.
+   - Turn each gap into a project, and assign each project to a year. That assignment, across all four personas, is the organization's multi-year roadmap.
+   - Every year also carries: quick/immediate wins per function (SEO, PPC, etc.) building toward the long-term goal of all journeys being fully live, plus whatever opportunistic wins come up that year.
+4. **Now through year-end (2026 Q4), applying this to Luca/Nadia since their journeys already exist:** the content and site work below is this year's slice of that gap-to-project process.
 
-**NOVEMBER — Guidelines and Annual Operating Plans**
+| # | Task | Timing | Owner | Status | Notes |
+|---|---|---|---|---|---|
+| 1 | Sign off Brand/Customer/Organization Manifesto with Dennis | September | Michele + Dennis | Not Started | Foundation for the guidelines. Covered at the Sept 21 meeting. |
+| 2 | Write guidelines for all areas (one sitting) | September | Michele | Not Started | Single working session, not per-node items. |
+| 3 | Write Annual Operating Plans for all nodes (one sitting) | October | Michele | Not Started | Single working session. Departmental detail (channel plans, fair criteria, B2B criteria, etc.) lives here, not as separate roadmap items. |
+| 4 | Build 2027 commercial calendar | After the AOPs (October/November) | Michele + Dennis | Not Started | Output of the AOPs, not an input to them. |
+| 5 | Build Vincenzo and Paolo journey maps | In progress | Michele | Not Started | Luca and Nadia's already exist. Needed before the gap analysis can cover all four personas. |
+| 6 | Gap analysis + project assignment per persona, across years | Ongoing, starts once Vincenzo/Paolo journeys exist for those two; already possible for Luca/Nadia | Michele | Not Started | This IS the multi-year roadmap. Each year also gets quick wins per function and opportunistic wins as they arise. |
+| 7 | SEO strategy per persona (keywords: ecological-function for Luca, benefit-led for Nadia) | Blocked Tue Sept 22, 12:30-15:30 (conditional on Neos's content pulls) | Michele | Not Started | Early start on the Luca/Nadia gap-to-project work, ahead of the formal AOP sequencing above. |
+| 8 | Content list (articles/how-tos) from the SEO keywords | Follows item 7 | Michele | Not Started | |
+| 9 | Rework existing content for the keywords + draft new content list | Follows item 8 | Michele + Web Agency | Not Started | Process: Neos downloads Dennis's existing content and sends it to Michele, who reworks it for the site's new buckets. Cross-reference against the commercial calendar once it exists (item 4). |
+| 10 | Update filters, link back to product list, send to Neos (Viola) | Bundled into item 7's Tuesday block | Michele | Not Started | |
+| 11 | Founder Story (interview Dennis, write, publish) | Ongoing | Michele + Dennis | Not Started | Content list item, not a separate initiative. |
+| 12 | Turin partnership content + documentation | Ongoing | Michele + Dennis | Not Started | Folded together as one content piece — the write-up and the formal documentation are the same effort, not separate items. |
+| 13 | Build press kit | Ongoing | Michele (Marketing, not Brand) | Not Started | Required before any PR outreach begins in Q1 2027. |
+| 14 | Build press outreach target list per persona | Ongoing | Michele | Not Started | Gardenia (Cairo Editore, requested a nursery profile update in July, unanswered) and a second unnamed outlet (Dennis gets a recurring editorial ask, already did one piece) are the first two candidates — evaluate both against reader fit, reach, and whether it can become real editorial coverage plus a site link, not just a listing. Governed by the quarterly cadence, not worked ad hoc. |
+| 15 | Resolve rootstock data gaps with Dennis (113 tree-form products) | Ongoing | Dennis | Not Started | Blocking accurate product catalog and site content. |
+| 16 | Confirm species-to-ecological-function mapping (Luca) and species-to-health-benefit mapping (Nadia) | Ongoing | Dennis + Michele | Not Started | Required for navigation and content on both persona tracks. |
+| 17 | Test the existing free shipping threshold | Ongoing | Michele | Not Started | Already defined — this is testing, not defining. |
+| 18 | Set up quarterly review cadence with Dennis | Starts after the Sept 21 meeting | Michele | In Progress | First review is effectively the Sept 21 meeting. Neos Wave alignment call happens one month ahead of each quarterly, per the unified roadmap. |
+| 19 | Set up CRM platform and email marketing platform with Neos Wave | Ongoing, testing starts 2027 | Michele + Neos Wave | Not Started | |
+| 20 | Site rebuild live (new structure, benefit navigation, English version) | Neos-managed, due end of year | Web Agency | In Progress | |
+| 21 | Verify knowledge base status with Neos Wave | Ongoing | Michele | Not Started | Should have been delivered Q2/Q3 — confirm before customer service agency is briefed further. |
+| 22 | Brief customer service agency on brand guidelines, tone, product knowledge | After guidelines exist | Michele | Not Started | Agency is live but not brand-aligned. Must happen before 2027. |
+| 23 | Handover site content requirements to Neos Wave | Complete | Michele | Complete | |
 
-| # | Node | Task | Month | Owner | Status | Notes |
-|---|---|---|---|---|---|---|
-| 12 | Brand | Write Brand Guidelines (voice, tone, visual direction, what the brand will never be) | November | Michele | Not Started | First guidelines document. All others reference this. |
-| 13 | Marketing | Write Marketing Guidelines (channel rules, persona tone, content standards, PR and affiliate criteria) | November | Michele | Not Started | Includes PR annual plan, SEO optimization plan, email strategy, affiliate criteria. |
-| 14 | Marketing | Write Annual Operating Plan — Marketing (what marketing does in 2027, priorities, budget) | November | Michele | Not Started | Informed by commercial calendar and SEO strategy. Covers PR, email, SEO, affiliates, social. |
-| 15 | Service | Write Service Guidelines (standards, escalation protocols, clienteling approach) | November | Michele | Not Started | Defines how every customer touchpoint is handled. |
-| 16 | Service | Define clienteling process for Luca (qualifying signal, Dennis briefing format, calendar booking) | November | Michele | Not Started | Fast-path contact flow for project-based inquiries. Same-day response commitment. |
-| 17 | Distribution | Write Distribution Guidelines (channel selection, persona fit criteria, B2B qualification) | November | Michele | Not Started | Governs which channels DBC uses and how. |
-| 18 | Distribution | Write Annual Operating Plan — Distribution (channel plan, fair calendar, B2B targets, event model) | November | Michele | Not Started | Informed by commercial calendar. Defines 2027 channel activity. |
-| 19 | Distribution | Define fair selection criteria for 2027 and set calendar (max 2-3, persona-fit only) | November | Michele + Dennis | Not Started | Selective fairs only. Each must earn its place. |
-| 20 | Distribution | Define B2B channel criteria (who qualifies, offer structure, minimum order) | November | Michele | Not Started | Luca and Paolo type buyers. Project-based. Not wholesale. |
-| 21 | Product | Write Supply Chain Guidelines (sourcing criteria, provenance standards, external sourcing rules) | November | Michele + Dennis | Not Started | Operationalizes the Constitution sourcing commitments. |
-| 22 | Logistics | Write Logistics Guidelines (packaging standards, courier criteria, delivery promise, B2B fulfillment) | November | Michele | Not Started | Define the logistics standard before volume grows. |
-| 23 | Logistics | Define packaging standard for plant transit (materials, survival rate target) | November | Michele + Dennis | Not Started | Plant arrival condition is a brand promise. |
-| 24 | Marketing | Build press outreach target list (per persona: ecological/restoration for Luca, wellness/food for Nadia) | November | Michele | Not Started | Minimum 10 target publications per persona. Gardenia (Cairo Editore, requested a nursery profile update in July, unanswered) and a second unnamed outlet (Dennis gets a recurring editorial ask from them, already did one piece) are the first two candidates — evaluate both against reader fit, reach, and whether it can be turned into real editorial coverage plus a site link, not just a listing. Don't work these ad hoc outside this list and the quarterly cadence. |
-| 25 | Marketing | Identify collaborator and affiliate targets (practitioner-level, credibility-based) | November | Michele | Not Started | No lifestyle influencers. Ecological practitioners for Luca. Wellness credible voices for Nadia. |
-| 26 | Organization | Set up quarterly review cadence (Michele and Dennis: performance, roadmap, budget) | **Corrected: September** | Michele | In Progress | Cadence starts with the Sept 21 meeting, not November — first review is effectively now, next one end of Q4 2026. Neos Wave alignment call happens one month ahead of each Dennis quarterly, per the unified roadmap. |
-| 27 | Organization | Define culture principles (how we work, what we value, how decisions are made) | November | Michele + Dennis | Not Started | Encodes brand values into working behavior. Required before any team member is added. |
+**Removed as not needed (per Michele, 2026-09-18):** courier contract renegotiation, packaging standard for plant transit, basic financial tracking, org structure definition, 2027 budget definition (no real budget to define).
 
-**DECEMBER — Content, Handovers, and Final Plans**
-
-| # | Node | Task | Month | Owner | Status | Notes |
-|---|---|---|---|---|---|---|
-| 28 | Brand | Rework site content (existing articles reformatted, benefit taxonomy applied, SEO-optimized per strategy) | December, ongoing through year-end | Michele + Web Agency | In Progress | Based on SEO strategy defined in October and species mapping confirmed with Dennis. Process: Neos downloads Dennis's existing content and sends it to Michele, who reworks it to fit the site's new buckets and cross-references it against SEO terms. Includes reviving/updating existing articles where possible, alongside net-new content for identified gaps. |
-| 29 | Brand | Build press kit (brand story, product overview, key facts, imagery) | December | Michele | Not Started | Required before any PR outreach begins in Q1 2027. |
-| 30 | Brand | Write Founder Story and publish to site (requires interview with Dennis) | December | Michele + Dennis | Not Started | Anchor credibility content. Part of site content rework. |
-| 31 | Brand | Write and publish Turin partnership content (part of site content rework, shareable for PR) | December | Michele + Dennis | Not Started | Flagship credibility piece. Not a standalone article — integrated into site content. |
-| 32 | Service | Verify knowledge base status with Neos Wave (confirm what is done, identify gaps) | December | Michele | Verify with Neos Wave | Should have been delivered in Q2/Q3. Confirm before customer service agency is briefed further. |
-| 33 | Service | Brief customer service agency on brand guidelines, tone, and product knowledge | December | Michele | Not Started | Agency is live but not brand-aligned. Must happen before 2027. |
-| 34 | Product | Formalize University of Turin partnership documentation (written agreement or MOU) | December | Michele + Dennis | Not Started | Needed for PR credibility claims and B2B institutional positioning. |
-| 35 | Distribution | Site rebuild live: new structure, benefit navigation, English version | December | Web Agency | In Progress | Neos Wave managing. Due end of year. Includes free shipping threshold and benefit navigation. |
-| 36 | Finance | Define 2027 budget per node against net-zero logic | December | Michele | Not Started | Informed by annual operating plans. Reinvest from returns. No new net cost. |
-| 37 | Organization | Write Annual Operating Plans for all nodes (Brand, Marketing, Service, Distribution, Product, Logistics, Finance) | December | Michele | Not Started | Each plan: what the node does in 2027, what it costs, what success looks like. Informed by guidelines and commercial calendar. |
-| 38 | Organization | Build Vincenzo and Paolo journey maps | December | Michele | Not Started | BLOCKING: 2027 activation plans for Paolo and Vincenzo cannot be built without these. |
-| 39 | Organization | Brief web agency on 2027 roadmap, brand standards, and technical priorities | December | Michele | Not Started | Agency needs full context before January 2027. |
-| 40 | Service | Define email journey types for Neos Wave: welcome journey (new sign-ups), post-purchase journey, delivery follow-up, how-to content sequence and timing | November | Michele | Not Started | Extract touchpoints from Nadia and Luca journey maps. Michele defines the journey logic and timing. Neos Wave builds templates and automation flows. |
-| 41 | Service | Confirm CRM platform selection with Neos Wave and approve (Neos Wave identifies, Michele approves) | November | Michele + Neos Wave | Not Started | Neos Wave identifies and connects suitable CRM per SOW section 3.4. Michele must confirm requirements and approve choice. |
-| 42 | Service | Handover brand guidelines and tone of voice to Neos Wave (knowledge base and customer care alignment) | November | Michele | Not Started | Immediately after Brand Guidelines are written. Neos Wave cannot apply consistent tone of voice or build brand-aligned knowledge base without this. |
-| 43 | Distribution | Handover site content requirements to Neos Wave — COMPLETE (requirements already delivered and reviewed) | November | Michele | Complete | Required for bilingual build to be brand-aligned. Includes benefit navigation structure, Luca ecological function layer, Nadia benefit categories. |
-| 44 | Brand | Write Annual Operating Plan — Brand (what Brand does in 2027, priorities, budget) | December | Michele | Not Started | Covers content engine, press kit deployment, earned media targets, brand awareness KPIs. |
+**Flagged, not fully resolved:** fair selection criteria and B2B channel criteria — Michele wasn't sure these are needed as anything beyond AOP detail; treated as folded into item 3 (AOPs) rather than removed outright, since departmental specifics belong there anyway.
 
 ## Change Log
 
 - 2026-09-17: Imported from source spreadsheet by Chief of Staff.
-- 2026-09-18: Corrected item 26 (quarterly cadence starts Sept 21, not November). Folded the two live content/press opportunities (Gardenia, one unnamed outlet) into item 24 rather than treating them as a standalone initiative — content and PR decisions are governed by the strategy and journey backlogs (`dennisbotaniccollection/knowledge-base/journeys/`), not handled ad hoc.
-- 2026-09-18: Clarified item 28 (site content rework) as an ongoing process through year-end: Neos downloads Dennis's content, sends it to Michele, who reworks it for the new site buckets and cross-references it against SEO terms.
-- 2026-09-18: Flagged item 2's sequencing as wrong per Michele: LTOS locks in September, guidelines follow from it, the AOP breaks that down operationally, and the 2027 commercial calendar is an output of the AOP, not an October input ahead of guidelines. Full phasing rework still pending her vision timeline update.
+- 2026-09-18: Corrected item 26 (quarterly cadence starts Sept 21, not November). Folded the two live content/press opportunities (Gardenia, one unnamed outlet) into the press outreach target list rather than treating them as a standalone initiative.
+- 2026-09-18: Clarified site content rework as an ongoing process: Neos downloads Dennis's content, sends it to Michele, who reworks it for the new site buckets and cross-references it against SEO terms.
+- 2026-09-18: Flagged the original item 2's sequencing as wrong: LTOS locks in September, guidelines follow from it, the AOP breaks that down operationally, and the 2027 commercial calendar is an output of the AOP, not an input ahead of guidelines.
+- 2026-09-18: Full restructure per Michele. Replaced the flat 44-item, month-bucketed list with the real methodology: guidelines (Sept, one sitting) → AOPs (Oct, one sitting, departmental detail lives inside them) → commercial calendar (output of AOPs) → the actual multi-year roadmap built from persona journey gap-analysis (Luca/Nadia/Vincenzo/Paolo), assigning closing projects to years, plus yearly quick wins and opportunistic wins. Reassigned press kit to Marketing. Folded sourcing criteria and Turin documentation into the content workstream. Removed courier contract, packaging standard, financial tracking, org structure, and budget definition as not needed. Flagged fair selection and B2B channel criteria as folded into the AOP rather than removed outright.

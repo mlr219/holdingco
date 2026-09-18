@@ -46,18 +46,10 @@
 
 ## TIER 3 — Sequenced work (per source doc order, entity-tagged)
 
-### Dennis Botanic Collection (DBC) — Oct–Dec 2026
-Full 44-item list carries forward from `dbc.md` unchanged, organized Oct (Decisions/Frameworks) → Nov (Guidelines/AOPs) → Dec (Content/Handovers/Final Plans). Not duplicated here in full — see source file. Owner is almost entirely Michele (+ Dennis, + Web Agency for site rebuild). Brand/Marketing/Service/Distribution/Supply Chain/Logistics Guidelines are already in the November items (12–22) — no new item needed there.
+### Dennis Botanic Collection (DBC)
+Full methodology and item list live in `dbc.md` — restructured 2026-09-18, see that file's Change Log for the full rationale. Not duplicated here. Summary: September = guidelines (all areas, one sitting); October = AOPs (all nodes, one sitting, departmental detail lives inside them, not as separate roadmap items); commercial calendar is an output of the AOPs, not an input; the actual multi-year roadmap comes from gap analysis per persona journey (Luca, Nadia, Vincenzo, Paolo) — what exists today vs. what the journey calls for, turned into projects, assigned to years, plus yearly quick wins and opportunistic wins. 2026 Q4 content/site work (SEO strategy, content list, filters, Founder Story, Turin content, press kit, etc.) is this year's slice of that process for Luca/Nadia, whose journeys already exist. Owner is almost entirely Michele (+ Dennis, + Web Agency/Neos Wave for site rebuild).
 
-**Pending (2026-09-18):** Michele is editing the LTOS and reworking the high-level "vision timeline" herself today, because the current Oct/Nov/Dec phasing in `dbc.md` isn't right. Once she uploads the updated LTOS, `dbc.md`'s phasing gets reworked to mirror the vision timeline — hold off on further phasing changes to this file until then. Content/press decisions (Gardenia, the second outlet) stay folded into item 24 and the journey backlogs regardless of how phasing changes.
-
-**New items (added 2026-09-18):**
-- Update the LTOS (Long-Term Operating Strategy) — due tomorrow (Sept 18).
-- Update the 2026 action plan — due tomorrow (Sept 18).
-- Add the filters Dennis suggested to the existing file, link them back to the product list, then send to Neos (Viola). Bundled into the Tuesday Sept 22 DBC content block.
-- Write function/department strategies — sequenced after LTOS update and after the Brand/Marketing/Service/Distribution/Supply Chain/Logistics Guidelines (dbc.md items 12–22, November).
-- Set up recurring quarterly client meeting on the calendar, starting after Monday's call with Dennis. This is the first client this cadence applies to; extend to other clients later as they come on.
-- Set up recurring Neos Wave alignment call, one month ahead of each quarterly Dennis meeting, to confirm Neos is on track for the quarter.
+**Pending:** Michele's LTOS and vision timeline are still being finalized; once done, cross-check `dbc.md`'s sequencing against them.
 
 ### Martini Pomanti — Aug 2026 through 2032
 Non-vineyard items (legal, entity, property, launch milestones) carry forward from `martini-pomanti.md` unchanged, phased by milestone banners (Vineyard Winter Prep → Renovation Loan Secured → Property Kickoff → 2027 Harvest Complete → Spring 2028 Launch → Fall 2032 Rosso). Only the Tier 1/2 items above are near-term planning-relevant; the rest is directional.
@@ -150,3 +142,4 @@ Both items above are funds-dependent this weekend. **[DECIDE]** Block both tenta
 - 2026-09-18: Corrected the IED deadline picture — only syllabus, exam design, grading template, and Lesson 1 are hard against Nov 2; Lessons 2-10 are each due before their own class date (Nov 10 - Jan 29), paced against Valtoria time rather than a fixed cadence. Blocked exam design + grading template and Lesson 1 materials on Friday Sept 25, which conflicts with the Friday-is-open convention — flagged for Thursday's review to decide if this should move.
 - 2026-09-18: Set a 2-lessons-per-week pace for Lessons 2-10 and blocked all of them on the calendar (Sept 29 - Oct 27, Tue/Wed mornings), each tagged with its real drop-dead deadline (one week before its class date). This clears all lessons well ahead of their actual deadlines.
 - 2026-09-18: Noted that `dbc.md` has NOT had the same granular, dated treatment applied as IED just got — it's still month-bucketed (October/November/December) with at least one known sequencing error (item 2), and full phasing is pending Michele's LTOS/vision-timeline rework. Worth the same scrutiny once that lands, given DBC has a similar hard-deadline shape.
+- 2026-09-18: Full restructure of `dbc.md` per Michele — replaced the flat 44-item list with the real methodology (guidelines → AOPs → commercial calendar as AOP output → multi-year roadmap built from persona journey gap-analysis, with yearly quick wins and opportunistic wins). Removed courier contract, packaging standard, financial tracking, org structure, and budget definition as not needed. See `dbc.md`'s own Change Log for full detail.
