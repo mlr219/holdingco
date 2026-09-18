@@ -4,6 +4,8 @@
 
 **Restructured 2026-09-18 per Michele — real methodology, not a flat task list.** No standalone departmental line items (distribution channel criteria, fair selection, etc.) — that granularity lives inside the AOPs and the gap-analysis projects below, not the roadmap itself.
 
+**Timing:** everything below needs to be done by end of 2026 — sooner is better, but internal sequencing/delivery order can flex within that ~3-month window. Treat Dec 31, 2026 as the hard outer bound, not each item's individual timing note.
+
 _Status values: Not Started · In Progress · Blocked · Complete. Update Status in place as work moves; note material changes at the bottom under Change Log._
 
 ## Sequencing
@@ -54,3 +56,4 @@ _Status values: Not Started · In Progress · Blocked · Complete. Update Status
 - 2026-09-18: Clarified site content rework as an ongoing process: Neos downloads Dennis's content, sends it to Michele, who reworks it for the new site buckets and cross-references it against SEO terms.
 - 2026-09-18: Flagged the original item 2's sequencing as wrong: LTOS locks in September, guidelines follow from it, the AOP breaks that down operationally, and the 2027 commercial calendar is an output of the AOP, not an input ahead of guidelines.
 - 2026-09-18: Full restructure per Michele. Replaced the flat 44-item, month-bucketed list with the real methodology: guidelines (Sept, one sitting) → AOPs (Oct, one sitting, departmental detail lives inside them) → commercial calendar (output of AOPs) → the actual multi-year roadmap built from persona journey gap-analysis (Luca/Nadia/Vincenzo/Paolo), assigning closing projects to years, plus yearly quick wins and opportunistic wins. Reassigned press kit to Marketing. Folded sourcing criteria and Turin documentation into the content workstream. Removed courier contract, packaging standard, financial tracking, org structure, and budget definition as not needed. Flagged fair selection and B2B channel criteria as folded into the AOP rather than removed outright.
+- 2026-09-18: Added overall timing note — everything in this file needs to be done by end of 2026, but delivery order within that window can flex. Individual item timing notes are guidance, not hard per-item deadlines; Dec 31, 2026 is the real outer bound.
