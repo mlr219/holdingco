@@ -4,6 +4,8 @@
 
 **Legend:** Scope: October through December 2026 only. 2027 planning extends from this once guidelines and AOPs are complete.
 
+**Correct sequencing (per Michele, 2026-09-18 — supersedes item 2's framing below and the Oct/Nov/Dec phasing generally, pending her full vision timeline rework):** LTOS locks in September → Guidelines are written from the LTOS and manifestos → the Annual Operating Plan breaks the LTOS and guidelines down operationally, node by node → the 2027 commercial calendar is an output of the AOP, not an input to it. Item 2 below has this backwards (calendar in October, ahead of and driving guidelines/AOPs) and needs to move later in the sequence once the full phasing rework lands.
+
 _Status values: Not Started · In Progress · Blocked · Complete. Update Status in place as work moves; note material changes at the bottom under Change Log._
 
 **OCTOBER — Decisions and Frameworks**
@@ -11,7 +13,7 @@ _Status values: Not Started · In Progress · Blocked · Complete. Update Status
 | # | Node | Task | Month | Owner | Status | Notes |
 |---|---|---|---|---|---|---|
 | 1 | Brand | Sign off Brand Manifesto, Customer Manifesto, and Organization Manifesto with Dennis | October | Michele + Dennis | Not Started | Next Dennis meeting. Foundation for all guidelines that follow. |
-| 2 | Brand | Build 2027 commercial calendar (seasonal moments, planting seasons, fair dates, content themes) | October | Michele + Dennis | Not Started | CCO output. All other functions align to this. Must be done before annual operating plans. |
+| 2 | Brand | Build 2027 commercial calendar (seasonal moments, planting seasons, fair dates, content themes) | **Sequencing wrong — see note above. Belongs after guidelines and the AOP, not October.** | Michele + Dennis | Not Started | Calendar is an output of the Annual Operating Plan, not an input to it. Hold this item until the AOP work (currently filed under December) is done. |
 | 3 | Marketing | Define SEO strategy for 2027 (keyword priorities per persona, content gaps, site optimization plan) | October | Michele | Not Started | Nadia: benefit-led keywords. Luca: ecological function keywords. Basis for site content rework. |
 | 4 | Product | Resolve rootstock data gaps with Dennis (113 tree-form products missing information) | October | Dennis | Not Started | Blocking accurate product catalog and site content. |
 | 5 | Product | Confirm species-to-ecological-function mapping with Dennis (Soil Builders, Pollinator Support, Erosion Control) | October | Dennis + Michele | Not Started | Required for Luca navigation and content. |
@@ -69,3 +71,5 @@ _Status values: Not Started · In Progress · Blocked · Complete. Update Status
 
 - 2026-09-17: Imported from source spreadsheet by Chief of Staff.
 - 2026-09-18: Corrected item 26 (quarterly cadence starts Sept 21, not November). Folded the two live content/press opportunities (Gardenia, one unnamed outlet) into item 24 rather than treating them as a standalone initiative — content and PR decisions are governed by the strategy and journey backlogs (`dennisbotaniccollection/knowledge-base/journeys/`), not handled ad hoc.
+- 2026-09-18: Clarified item 28 (site content rework) as an ongoing process through year-end: Neos downloads Dennis's content, sends it to Michele, who reworks it for the new site buckets and cross-references it against SEO terms.
+- 2026-09-18: Flagged item 2's sequencing as wrong per Michele: LTOS locks in September, guidelines follow from it, the AOP breaks that down operationally, and the 2027 commercial calendar is an output of the AOP, not an October input ahead of guidelines. Full phasing rework still pending her vision timeline update.
