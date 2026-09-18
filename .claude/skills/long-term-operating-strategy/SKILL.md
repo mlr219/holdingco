@@ -41,7 +41,7 @@ Every LTOS follows this structure, in this order:
 
 Before writing a single word, read:
 
-- Both reference LTOS documents (SAG original and Martini Pomanti updated) to calibrate register — this step is mandatory, not optional
+- The bundled reference example at `references/example-ltos.md` to calibrate register — this step is mandatory, not optional. It is illustrative and generic, not a real client, never substitute a specific client's document here even if one is available in chat; a real client's LTOS is that client's confidential content and doesn't belong referenced inside a skill every other client's engagement also runs on
 - All completed PLAN workbook tabs: Big Picture (Situation/Complication/Expectation/Requirement per column), Customer Objectives, Brand Objectives, Top Line, Timeline
 - The existing brand strategy document if one exists — it may contain prose that can be elevated rather than reconstructed
 - All analytics reports, sales data, and research gathered during the engagement
