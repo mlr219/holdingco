@@ -38,9 +38,9 @@ _Status values: Not Started · In Progress · Blocked · Complete. Update Status
 | 21 | Product | Write Supply Chain Guidelines (sourcing criteria, provenance standards, external sourcing rules) | November | Michele + Dennis | Not Started | Operationalizes the Constitution sourcing commitments. |
 | 22 | Logistics | Write Logistics Guidelines (packaging standards, courier criteria, delivery promise, B2B fulfillment) | November | Michele | Not Started | Define the logistics standard before volume grows. |
 | 23 | Logistics | Define packaging standard for plant transit (materials, survival rate target) | November | Michele + Dennis | Not Started | Plant arrival condition is a brand promise. |
-| 24 | Marketing | Build press outreach target list (per persona: ecological/restoration for Luca, wellness/food for Nadia) | November | Michele | Not Started | Minimum 10 target publications per persona. |
+| 24 | Marketing | Build press outreach target list (per persona: ecological/restoration for Luca, wellness/food for Nadia) | November | Michele | Not Started | Minimum 10 target publications per persona. Gardenia (Cairo Editore, requested a nursery profile update in July, unanswered) and a second unnamed outlet (Dennis gets a recurring editorial ask from them, already did one piece) are the first two candidates — evaluate both against reader fit, reach, and whether it can be turned into real editorial coverage plus a site link, not just a listing. Don't work these ad hoc outside this list and the quarterly cadence. |
 | 25 | Marketing | Identify collaborator and affiliate targets (practitioner-level, credibility-based) | November | Michele | Not Started | No lifestyle influencers. Ecological practitioners for Luca. Wellness credible voices for Nadia. |
-| 26 | Organization | Set up quarterly review cadence (Michele and Dennis: performance, roadmap, budget) | November | Michele | Not Started | 60-minute quarterly meeting. First review end of Q1 2027. |
+| 26 | Organization | Set up quarterly review cadence (Michele and Dennis: performance, roadmap, budget) | **Corrected: September** | Michele | In Progress | Cadence starts with the Sept 21 meeting, not November — first review is effectively now, next one end of Q4 2026. Neos Wave alignment call happens one month ahead of each Dennis quarterly, per the unified roadmap. |
 | 27 | Organization | Define culture principles (how we work, what we value, how decisions are made) | November | Michele + Dennis | Not Started | Encodes brand values into working behavior. Required before any team member is added. |
 
 **DECEMBER — Content, Handovers, and Final Plans**
@@ -68,3 +68,4 @@ _Status values: Not Started · In Progress · Blocked · Complete. Update Status
 ## Change Log
 
 - 2026-09-17: Imported from source spreadsheet by Chief of Staff.
+- 2026-09-18: Corrected item 26 (quarterly cadence starts Sept 21, not November). Folded the two live content/press opportunities (Gardenia, one unnamed outlet) into item 24 rather than treating them as a standalone initiative — content and PR decisions are governed by the strategy and journey backlogs (`dennisbotaniccollection/knowledge-base/journeys/`), not handled ad hoc.
