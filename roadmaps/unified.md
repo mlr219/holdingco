@@ -10,14 +10,16 @@
 
 **Prioritization rule applied below:** (1) hard external deadlines, (2) cross-entity blockers, (3) everything else in rough sequence per source doc. Items needing your judgment call are flagged **[DECIDE]**.
 
+**Calendar color convention (for hours/revenue tracking):** one Google Calendar color per entity/client — IED = Sage (colorId 2), DBC = Basil (colorId 10). Use the event title to flag prep/planning vs. contact/delivery time within that color (e.g. "Fashion System 01" = teaching, "[Prep] Fashion System syllabus" = planning), rather than a separate color per activity type, since Calendar only has 11 colors total against ~5 entities. **[DECIDE]** Confirm this approach, or say if you want prep time in its own color across every entity instead. Apply this convention to every future calendar action across all entities, not just IED.
+
 ---
 
 ## TIER 1 — Hard external deadlines
 
 | Entity | Task | Deadline | Notes |
 |---|---|---|---|
-| IED | All Fashion System materials finalized and course-ready | **Nov 2, 2026** | Course start. Hard stop — syllabus, exam, grading template, materials for Lessons 1–10 (midterm) all roll up to this. This week's target (delivering all content) is not happening — Michele is on DBC today and has meetings Monday. Realistic plan: syllabus update Tue/Wed next week (Sept 23–24), then review lesson-by-lesson content starting after that. Tight against Nov 2 — revisit if the syllabus slips past Wednesday. |
-| IED | Confirm final exam and makeup exam dates with registrar | ASAP (before exam design) | Blocks exam design; not yet on calendar. |
+| IED | All Fashion System materials finalized and course-ready | **Nov 2, 2026** | Course start. Hard stop — syllabus, exam, grading template, materials for Lessons 1–10 (midterm) all roll up to this. This week's target (delivering all content) is not happening — Michele is on DBC today and has meetings Monday. Realistic plan: syllabus update Tue/Wed next week (Sept 23–24), then review lesson-by-lesson content starting after that. Tight against Nov 2 — revisit if the syllabus slips past Wednesday. Two sections confirmed on calendar: Tuesdays 8:30–15:00 (Nov 3 – Feb 2) and Fridays 8:30–11:30 (Nov 6 – Jan 29, 10 sessions each), both "Fashion System 01–10," Sage color. |
+| IED | Confirm final exam and makeup exam dates with registrar | Not confirmable until near end of course | Not a blocker to chase — this is just how the registrar works. Moved out of Tier 1 "ASAP" framing. |
 | IED | Submit both syllabus options (as-is + restructured) to IED | **Dec 1, 2026** | Fashion Org/Commercialization track. |
 | DBC | Sign off Brand/Customer/Organization Manifesto with Dennis | October 2026 | Foundation — all DBC guidelines and AOPs reference this. |
 | DBC | Build 2027 commercial calendar with Dennis | October 2026 | All other DBC functions align to this before AOPs can be written. |
@@ -117,11 +119,12 @@ Both items above are funds-dependent this weekend. **[DECIDE]** Block both tenta
 ## Open judgment calls for Michele **[DECIDE]**
 
 1. ~~Martini Pomanti harvest timing vs. MLRCC negotiation~~ — resolved: harvest is complete, no production this year. The MLRCC negotiation itself turned out to be waiting on the other side, not a this-week task for Michele (see Tier 1), so there is no longer a live conflict here.
-2. **IED registrar exam dates** — not on your calendar yet; needs you to chase this directly, I can't infer it.
+2. ~~IED registrar exam dates~~ — resolved: not confirmable until near end of course, nothing to chase.
 3. MLRCC's Week 1–4 onboarding tasks depend on the other side responding to the 2026 project proposal, with no known date. No action needed now — revisit prioritization against DBC's October deadlines once they respond.
 4. **IED example material (item 23)** — student redo, Dennis, or Valtoria's project. Decide which route once you know if Valtoria is kicking off.
 5. **MLRCC website scope** — new/rebuilt site, or an update to the existing one? Determines whether this is a small task or its own workstream.
 6. **Liam's ID renewal and au pair search** — both funds-dependent this weekend. Block both tentatively now and confirm/cancel once funds are known, or wait to confirm funds first? My recommendation: block both tentatively now, since a held slot is easy to release but a missed weekend means waiting another week for both.
+7. **Calendar color/prep-tracking convention** — confirm one color per entity with prep vs. delivery flagged in the title (as applied to IED above), or do you want prep time in its own color across every entity instead?
 
 ## Change Log
 - 2026-09-17: Synthesized from the four per-entity drafts into one unified, tiered view for weekly planning. Per-entity files remain the source of record; this file is the planning view.
@@ -138,3 +141,4 @@ Both items above are funds-dependent this weekend. **[DECIDE]** Block both tenta
 - 2026-09-18 (weekly review): Clarified the fractional COO negotiation is with Valtoria; Michele replied Monday Sept 14 asking them to take their time, follow up Sept 21–22 if no response. Replaced the flat "autumn remedial vineyard work" Tier 1 line with a sequenced timeline (gramigna → dead vines/pruning → trellis → new-vine holes → fertilize), timing checked against general viticulture practice — flagged as provisional until the agronomist search lands someone who can confirm it against the actual site.
 - 2026-09-18 (weekly review, DBC): Corrected `dbc.md` item 26 (quarterly cadence starts Sept 21, not November) and folded the Gardenia/second-outlet content asks into item 24 rather than a standalone initiative, per the Luca/Nadia journey backlogs in `dennisbotaniccollection/knowledge-base/journeys/`. Michele is reworking the LTOS and the high-level "vision timeline" herself today since `dbc.md`'s Oct/Nov/Dec phasing doesn't match it — holding off on further phasing changes until she uploads the update.
 - 2026-09-18 (weekly review, IED): This week's target of delivering all Fashion System content is not happening. Realistic plan: syllabus update Tue/Wed next week, lesson content review starts after. Flagged as tight against the Nov 2 hard deadline.
+- 2026-09-18: Resolved IED registrar exam dates as not confirmable until near end of course (not a blocker to chase). Added Friday IED class sections to the calendar (10 sessions, Nov 6 – Jan 29, 8:30–11:30, Sage) alongside the existing Tuesday sections. Established a calendar color convention (one color per entity, prep vs. delivery flagged in the title) for hours/revenue tracking — pending Michele's confirmation.
