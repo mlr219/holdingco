@@ -10,7 +10,7 @@
 
 **Prioritization rule applied below:** (1) hard external deadlines, (2) cross-entity blockers, (3) everything else in rough sequence per source doc. Items needing your judgment call are flagged **[DECIDE]**.
 
-**Calendar color convention (for hours/revenue tracking):** one Google Calendar color per entity/client — IED = Sage (colorId 2), DBC = Basil (colorId 10). Use the event title to flag prep/planning vs. contact/delivery time within that color (e.g. "Fashion System 01" = teaching, "[Prep] Fashion System syllabus" = planning), rather than a separate color per activity type, since Calendar only has 11 colors total against ~5 entities. **[DECIDE]** Confirm this approach, or say if you want prep time in its own color across every entity instead. Apply this convention to every future calendar action across all entities, not just IED.
+**Calendar color convention (for hours/revenue tracking), corrected 2026-09-18:** Michele's actual system is color-per-activity within each calendar, not per entity — on the MLR Global calendar, each activity (e.g. learning & development, IED teaching) already has its own distinct color so she can see where her time goes. Martini Pomanti's calendar and her personal calendar are not yet color-coded this granularly (personal is currently only split into "mine" vs. "family"). IED currently uses Sage (colorId 2) for both teaching and prep, undifferentiated. Retroactively building out full per-activity color coding for Martini Pomanti and personal is a future project, not urgent now — but any new calendar action should ask which existing color applies rather than assuming one-per-entity.
 
 ---
 
@@ -36,7 +36,7 @@
 | DBC | Define SEO strategy for 2027 | Site content rework (Dec) |
 | DBC | Review/renegotiate courier contract | Site relaunch |
 | Martini Pomanti | Formalize E's role/compensation, O's role, begin agronomist + commercialista search | Farmer classification path, all downstream legal/finance work |
-| Martini Pomanti | Bring administrative items current: tax filings, fascicolo, other outstanding compliance paperwork | Clean books/compliance status ahead of 2027 harvest and any renovation loan process |
+| Martini Pomanti | Bring administrative items current: tax filings, fascicolo, other outstanding compliance paperwork | Clean books/compliance status ahead of 2027 harvest and any renovation loan process. Michele's realistic timeline: by end of 2026, not sooner. |
 | MLRCC | Confirm company's home market(s) | Which director institute(s) apply |
 | MLRCC | Build director-specific bio, join director institute(s) | Board search progress |
 | MLRCC | Strategy session: review outreach targets and their products | Outreach pipeline setup (including Upwork, Malt platform evaluation) |
@@ -101,16 +101,16 @@ Full list carries forward from `mlrcc-coo-era.md` unchanged. Weeks 1–4 onboard
 - Set up CRM management. Sequenced after outreach pipelines are defined, since the pipeline structure should drive what the CRM needs to track.
 - Follow up with Pierre (client, SAG) — confirm whether he wants to finalize the narrative.
 - Webinars — new workstream, not yet scoped.
-- Website — new workstream, not yet scoped. **[DECIDE]** Is this a new/rebuilt MLRCC site, or an update to the existing one referenced in item 11? Scope depends on the answer.
+- Website — new build, confirmed. Not yet scoped beyond that.
 
 ### IED — Course Prep 2026–27 (32 items)
 Full list carries forward from `ied-course-prep.md` unchanged. Fashion System track (items 1–15) is task-level urgent given the Nov 2 deadline. Fashion Org/Commercialization track (16–32) is gated on IED's decision — hold at "submit both options" until they respond.
 
-**Open item:** item 23 (create example material for commercialization concepts) needs a method decision **[DECIDE]** — have a student redo theirs, ask Dennis to produce one, or use Valtoria's if that project kicks off.
+**Open item:** item 23 (create example material for commercialization concepts) — this is actually for Business Thinking and Management, not the Fashion Org/Commercialization track item it was filed under. Needed before that course starts March 4, 2027. Still needs a method decision **[DECIDE]** — have a student redo theirs, ask Dennis to produce one, or use Valtoria's if that project kicks off.
 
 ### Personal (Michele, not entity-attributable)
-- Renew Liam's ID. Preferred timing: Saturday morning, conditional on funds being available.
-- Find an au pair. Target: this weekend. Conditional on funds, since it requires signing up (paying) for a site first.
+- Renew Liam's ID. Block Monday morning after school drop-off, before the 10:00 IED Moodle training.
+- Find an au pair via Au Pair World (requires a paid subscription to the portal — funds-dependent). Target: this weekend, but flagged as a hard one given the subscription step.
 
 Both items above are funds-dependent this weekend. **[DECIDE]** Block both tentatively now and confirm/cancel once funds are known, or wait to confirm funds first before either goes on the calendar? My recommendation: block both tentatively, since a held slot costs nothing to release and both windows (Saturday morning; this weekend) are narrow.
 
@@ -122,9 +122,8 @@ Both items above are funds-dependent this weekend. **[DECIDE]** Block both tenta
 2. ~~IED registrar exam dates~~ — resolved: not confirmable until near end of course, nothing to chase.
 3. MLRCC's Week 1–4 onboarding tasks depend on the other side responding to the 2026 project proposal, with no known date. No action needed now — revisit prioritization against DBC's October deadlines once they respond.
 4. **IED example material (item 23)** — student redo, Dennis, or Valtoria's project. Decide which route once you know if Valtoria is kicking off.
-5. **MLRCC website scope** — new/rebuilt site, or an update to the existing one? Determines whether this is a small task or its own workstream.
-6. **Liam's ID renewal and au pair search** — both funds-dependent this weekend. Block both tentatively now and confirm/cancel once funds are known, or wait to confirm funds first? My recommendation: block both tentatively now, since a held slot is easy to release but a missed weekend means waiting another week for both.
-7. **Calendar color/prep-tracking convention** — confirm one color per entity with prep vs. delivery flagged in the title (as applied to IED above), or do you want prep time in its own color across every entity instead?
+5. ~~MLRCC website scope~~ — resolved: new build, confirmed.
+6. **Au pair search** — still funds-dependent (Au Pair World subscription required). Liam's ID renewal is resolved (Monday morning, after drop-off, before the 10:00 Moodle training).
 
 ## Change Log
 - 2026-09-17: Synthesized from the four per-entity drafts into one unified, tiered view for weekly planning. Per-entity files remain the source of record; this file is the planning view.
@@ -141,4 +140,5 @@ Both items above are funds-dependent this weekend. **[DECIDE]** Block both tenta
 - 2026-09-18 (weekly review): Clarified the fractional COO negotiation is with Valtoria; Michele replied Monday Sept 14 asking them to take their time, follow up Sept 21–22 if no response. Replaced the flat "autumn remedial vineyard work" Tier 1 line with a sequenced timeline (gramigna → dead vines/pruning → trellis → new-vine holes → fertilize), timing checked against general viticulture practice — flagged as provisional until the agronomist search lands someone who can confirm it against the actual site.
 - 2026-09-18 (weekly review, DBC): Corrected `dbc.md` item 26 (quarterly cadence starts Sept 21, not November) and folded the Gardenia/second-outlet content asks into item 24 rather than a standalone initiative, per the Luca/Nadia journey backlogs in `dennisbotaniccollection/knowledge-base/journeys/`. Michele is reworking the LTOS and the high-level "vision timeline" herself today since `dbc.md`'s Oct/Nov/Dec phasing doesn't match it — holding off on further phasing changes until she uploads the update.
 - 2026-09-18 (weekly review, IED): This week's target of delivering all Fashion System content is not happening. Realistic plan: syllabus update Tue/Wed next week, lesson content review starts after. Flagged as tight against the Nov 2 hard deadline.
-- 2026-09-18: Resolved IED registrar exam dates as not confirmable until near end of course (not a blocker to chase). Added Friday IED class sections to the calendar (10 sessions, Nov 6 – Jan 29, 8:30–11:30, Sage) alongside the existing Tuesday sections. Established a calendar color convention (one color per entity, prep vs. delivery flagged in the title) for hours/revenue tracking — pending Michele's confirmation.
+- 2026-09-18: Resolved IED registrar exam dates as not confirmable until near end of course (not a blocker to chase). Added Friday IED class sections to the calendar (10 sessions, Nov 6 – Jan 29, 8:30–11:30) alongside the existing Tuesday sections; Tuesdays split into Class A Italian (8:30–11:30) and Class A English (12:00–15:00), Fridays labeled Class B English. Added Business Thinking and Management (12 lessons, Class A/B, March 4 – May 20, plus June 3 exam in two slots, subject to change).
+- 2026-09-18: Corrected the calendar color convention — Michele's system is per-activity within each calendar, not per-entity; documented actual state and flagged retroactive color-coding for Martini Pomanti and personal as a future project. Confirmed MLRCC website is a new build. Clarified IED item 23 (example material) is for Business Thinking and Management, needed before it starts March 4, 2027. Martini Pomanti admin catch-up realistically lands by end of 2026. Liam's ID renewal resolved to Monday morning after drop-off, before the 10:00 Moodle training; au pair search remains funds-dependent (Au Pair World subscription).
