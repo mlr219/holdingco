@@ -21,9 +21,9 @@
 | IED | Submit both syllabus options (as-is + restructured) to IED | **Dec 1, 2026** | Fashion Org/Commercialization track. |
 | DBC | Sign off Brand/Customer/Organization Manifesto with Dennis | October 2026 | Foundation — all DBC guidelines and AOPs reference this. |
 | DBC | Build 2027 commercial calendar with Dennis | October 2026 | All other DBC functions align to this before AOPs can be written. |
-| Martini Pomanti | Replace dead vines / redo trellis / treat gramigna / fertilize / prune / insert wire rods | Autumn 2026 (seasonal window) | Must happen in the autumn window or lost for a year. |
+| Martini Pomanti | Autumn remedial vineyard work — see sequenced timeline below | Autumn 2026 (seasonal window) | Must happen in the autumn window or lost for a year. |
 | Martini Pomanti | Draft agreements (Giovanni, winemaker); confirm registro telematico; bottling compliance; Confagricoltura dues | Autumn 2026 | Must be in place before 2027 harvest. |
-| MLRCC | Fractional COO role — waiting on their response to the 2026 project proposal | Pending, not in Michele's control | 2027 conditions get negotiated only after they respond on the rest of 2026. No action for Michele until they reply — track as a waiting item, not a this-week task. |
+| MLRCC | Fractional COO role (client: Valtoria) — waiting on their response to the 2026 project proposal | Pending, not in Michele's control | Michele replied Monday (Sept 14) telling them to take their time reviewing and that she's available to discuss. 2027 conditions get negotiated only after they respond on the rest of 2026. Follow up Monday or Tuesday next week (Sept 21–22) if still no response — no other action until then. |
 
 ## TIER 2 — Cross-entity blockers (unblock downstream work in the same or another entity)
 
@@ -76,6 +76,18 @@ Non-vineyard items (legal, entity, property, launch milestones) carry forward fr
 
 **2026 status:** harvest complete, no production this year. Rippatura last done approximately 2024, so not due this cycle (3–5 year interval). Remaining 2026 window (through year-end) is dormancy-prep only — deferred pruning-prep steps ahead of Potatura Secca. Full active cycle resumes at Potatura Secca, Dec 2026.
 
+**2026 autumn remedial vineyard work — sequenced timeline (one-time, on top of the recurring cycle above).** Order confirmed against Michele's stated sequence (gramigna first; dead vines with pruning; trellis after pruning; holes before fertilizing) and cross-checked against general post-harvest dormancy practice:
+
+| Order | Task | Window | Why this order |
+|---|---|---|---|
+| 1 | Treat gramigna (couch grass) | Now through mid-November, before first frost | Top priority per Michele. Effectiveness drops in drought, so exact timing depends on rain; don't wait past mid-Nov. |
+| 2 | Remove dead vines + remedial pruning | Follows gramigna treatment, into November | Post-harvest dormancy work; vines easier to remove and prune once foliage is down. Dead vine removal and this pruning pass happen together per Michele. |
+| 3 | Redo trellis / insert wire rods | After dead vines and pruning are done, same November window | Old wood needs to be cleared first so the trellis structure is actually accessible to repair. |
+| 4 | Dig holes for 2027 replacement vines | Same November–early December window, before ground freezes | Per Michele, holes must be dug before fertilizing. Needs workable (unfrozen) soil, so can't slip much past this window. |
+| 5 | Fertilize | Later in fall/into winter (December) | Last step in this sequence per Michele; standard practice is to assess soil needs during dormancy and amend before spring. |
+
+This is general viticulture practice, not a vineyard-specific agronomist assessment — treat as a working timeline until the agronomist search (Tier 2) lands someone who can confirm it against your soil and site conditions.
+
 ### MLRCC — COO-era (28 items)
 Full list carries forward from `mlrcc-coo-era.md` unchanged. Weeks 1–4 onboarding/redirect items follow directly once negotiation (Tier 1) closes. Foundation-phase items (newsletter, articles, board search groundwork) are ongoing/background once triggered. Bi-weekly article cadence and website publishing are already covered by items 10–11 — no new item there.
 
@@ -121,3 +133,4 @@ Both items above are funds-dependent this weekend. **[DECIDE]** Block both tenta
 - 2026-09-18: Added a second Personal item: find an au pair this weekend, conditional on funds (site signup required). Grouped with Liam's ID renewal as a single funds-dependent judgment call.
 - 2026-09-18: Corrected the weekly cycle anchor description — the meeting is Michele's all-entity weekly review despite its former "MLRCC" calendar title, not an MLRCC-specific meeting.
 - 2026-09-18: Moved the weekly review from Friday to Thursday 16:00–16:20 on the calendar, renamed it "Weekly Progress Check-In (All Entities)," and removed the Friday 9:00–12:00 content block so all of Friday is open for content and other items. Held a one-off transition review Friday Sept 18, 09:00–09:20; Thursday cadence starts Sept 24. Assumes Thursdays are late pickup days.
+- 2026-09-18 (weekly review): Clarified the fractional COO negotiation is with Valtoria; Michele replied Monday Sept 14 asking them to take their time, follow up Sept 21–22 if no response. Replaced the flat "autumn remedial vineyard work" Tier 1 line with a sequenced timeline (gramigna → dead vines/pruning → trellis → new-vine holes → fertilize), timing checked against general viticulture practice — flagged as provisional until the agronomist search lands someone who can confirm it against the actual site.
