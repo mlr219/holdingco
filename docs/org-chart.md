@@ -5,6 +5,9 @@ This repo is the cross-entity coordination layer: Cross-entity, Holding Co., per
 ## Built and live in this repo
 
 1. **Chief of Staff** (`chief-of-staff`) — holds and tracks account roadmaps handed up from account managers, across every entity. Reports to the CEO.
+2. **CSO** (`cso`) — canonical source for the cross-client Chief Strategy Officer persona. Working copies live in each client repo that needs it (currently `dennisbotaniccollection`); this is the version to update when the role changes, then propagate the copy. Governed by `senior-leadership-standard.md`.
+3. **Senior Leadership Standard** (`senior-leadership-standard.md`) — universal base layer for every C-suite persona (CSO, CMO, CCO, CXO, COO, Chief of Staff). Canonical source here; duplicated into client repos that use it (currently `dennisbotaniccollection`).
+4. **LTOS skill set** — six skills (`big-picture`, `customer-objectives`, `brand-objectives`, `top-line`, `timeline`, `long-term-operating-strategy`) for building a client's PLAN workbook and Long-Term Operating Strategy document. Canonical source here, but these run at account level via packaged `.skill` installs, not per-repo. See `SOURCES.md`.
 
 ## CEO
 
