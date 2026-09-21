@@ -14,6 +14,8 @@
 
 **Meeting agenda email convention (2026-09-18):** every meeting agenda/prep email sent to Michele uses the subject line "Agenda: [Meeting/Person] — [Date]" — consistently "Agenda," never "prep notes" or other variants.
 
+**Workstream organization convention (2026-09-21):** every entity file gets organized by named workstream (big picture first), with detailed line items filed underneath each workstream rather than one flat numbered list. Applied to `dbc.md` (Strategic Foundation, Multi-Year Roadmap, Brand & Content, Product & Data, Site & Operations, Client Cadence) — apply the same treatment to the other entity files as they come up for review.
+
 ---
 
 ## TIER 1 — Hard external deadlines
@@ -47,7 +49,7 @@
 ## TIER 3 — Sequenced work (per source doc order, entity-tagged)
 
 ### Dennis Botanic Collection (DBC)
-Full methodology and item list live in `dbc.md` — restructured 2026-09-18, see that file's Change Log for the full rationale. Not duplicated here. Summary: September = guidelines (all areas, one sitting); October = AOPs (all nodes, one sitting, departmental detail lives inside them, not as separate roadmap items); commercial calendar is an output of the AOPs, not an input; the actual multi-year roadmap comes from gap analysis per persona journey (Luca, Nadia, Vincenzo, Paolo) — what exists today vs. what the journey calls for, turned into projects, assigned to years, plus yearly quick wins and opportunistic wins. 2026 Q4 content/site work (SEO strategy, content list, filters, Founder Story, Turin content, press kit, etc.) is this year's slice of that process for Luca/Nadia, whose journeys already exist. Owner is almost entirely Michele (+ Dennis, + Web Agency/Neos Wave for site rebuild).
+Full item list lives in `dbc.md`, organized by workstream (restructured 2026-09-21): **1. Strategic Foundation** (manifestos → guidelines → AOPs → commercial calendar), **2. Multi-Year Roadmap** (Vincenzo/Paolo journey maps, then gap-analysis-to-project-to-year per persona — this IS the roadmap), **3. Brand & Content** (SEO, content list/rework, Founder Story, Turin content, press kit, press outreach), **4. Product & Data** (rootstock gaps, species mappings, filters), **5. Site & Operations** (Neos Wave: site rebuild, CRM/email platform, knowledge base, CS agency, free shipping test), **6. Client Cadence** (quarterly Dennis reviews, governs everything above). Owner is almost entirely Michele (+ Dennis, + Web Agency/Neos Wave for site rebuild).
 
 **Pending:** Michele's LTOS and vision timeline are still being finalized; once done, cross-check `dbc.md`'s sequencing against them.
 
@@ -145,3 +147,4 @@ Both items above are funds-dependent this weekend. **[DECIDE]** Block both tenta
 - 2026-09-18: Full restructure of `dbc.md` per Michele — replaced the flat 44-item list with the real methodology (guidelines → AOPs → commercial calendar as AOP output → multi-year roadmap built from persona journey gap-analysis, with yearly quick wins and opportunistic wins). Removed courier contract, packaging standard, financial tracking, org structure, and budget definition as not needed. See `dbc.md`'s own Change Log for full detail.
 - 2026-09-18: Given DBC's end-of-year flexibility, Michele reprioritized next week fully to IED: dropped the DBC Tuesday content block and re-blocked the calendar to do the whole Fashion System course in one push (syllabus, exam+grading, Lessons 1-10 two at a time) instead of pacing 2 lessons/week. Fully scheduled Sept 22 - Oct 7, roughly a month ahead of the Nov 2 deadline. Monday stays open for Dennis meeting prep.
 - 2026-09-18: Corrected the task breakdown - "materials" isn't one step per lesson. Real sequence is syllabus (topics, reading, grading/evaluation, folds in exam design) → lesson planning for all 10 (story arc, time breakdown, activities), done before any materials work → materials per lesson (up to a full day each, revising existing content). Rebuilt as full-day calendar blocks, Sept 22 - Oct 9, finishing about 3.5 weeks ahead of Nov 2.
+- 2026-09-21: Reorganized `dbc.md` into 6 named workstreams (Strategic Foundation, Multi-Year Roadmap, Brand & Content, Product & Data, Site & Operations, Client Cadence), detail filed underneath each rather than one flat numbered list. Established this as a standing convention for all entity files going forward.
