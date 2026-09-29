@@ -16,6 +16,8 @@
 
 **Workstream organization convention (2026-09-21):** every entity file gets organized by named workstream (big picture first), with detailed line items filed underneath each workstream rather than one flat numbered list. Applied to `dbc.md` (Strategic Foundation, Multi-Year Roadmap, Brand & Content, Product & Data, Site & Operations, Client Cadence) — apply the same treatment to the other entity files as they come up for review.
 
+**Notion mirror (2026-09-29):** git/markdown in `roadmaps/` remains the actual working source of truth — full detail, history, and change log live here. A read-only mirror of current status lives on the "Cross-Entity Roadmap Status" Notion page, linked from the "Chief of Staff Log" page (the Morning Meeting session's own notebook), so other sessions can see current roadmap state without the holdingco repo attached. Update the Notion mirror after each weekly review or material roadmap change; it summarizes, it doesn't replace, these files.
+
 ---
 
 ## TIER 1 — Hard external deadlines
@@ -149,3 +151,4 @@ Both items above are funds-dependent this weekend. **[DECIDE]** Block both tenta
 - 2026-09-18: Corrected the task breakdown - "materials" isn't one step per lesson. Real sequence is syllabus (topics, reading, grading/evaluation, folds in exam design) → lesson planning for all 10 (story arc, time breakdown, activities), done before any materials work → materials per lesson (up to a full day each, revising existing content). Rebuilt as full-day calendar blocks, Sept 22 - Oct 9, finishing about 3.5 weeks ahead of Nov 2.
 - 2026-09-21: Reorganized `dbc.md` into 6 named workstreams (Strategic Foundation, Multi-Year Roadmap, Brand & Content, Product & Data, Site & Operations, Client Cadence), detail filed underneath each rather than one flat numbered list. Established this as a standing convention for all entity files going forward.
 - 2026-09-29 (weekly review, delayed from Sept 24 — that review never actually happened): IED syllabus and lesson planning for all 10 lessons complete; Lesson 1 materials mostly done. Lessons 2-10 not started; their scheduled blocks (Sept 25, 29, 30) already passed and need rescheduling. DBC: Sept 21 Dennis meeting held, waiting on Dennis before sending updated documents; followed up with Neos on the overdue content download. MLRCC/Valtoria: Michele is deliberately holding off, not chasing this week — Gabby just back from Silmo Paris.
+- 2026-09-29: Created a Notion mirror ("Cross-Entity Roadmap Status" page, linked from the Morning Meeting's "Chief of Staff Log" page) so other sessions can reference current roadmap status without the holdingco repo attached. Git/markdown here remains the source of truth; the Notion page is a summary to be updated after each weekly review.
