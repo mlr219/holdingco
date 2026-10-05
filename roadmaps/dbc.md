@@ -15,7 +15,7 @@ Manifestos → guidelines → AOPs → commercial calendar, in that order. Nothi
 
 | Task | Timing | Owner | Status | Notes |
 |---|---|---|---|---|
-| Sign off Brand/Customer/Organization Manifesto with Dennis | September | Michele + Dennis | In Progress | Sept 21 meeting held. Michele is waiting on Dennis to provide a couple of things before she can send him the updated brand/design documents plus the updated plan documents (LTOS and roadmap). |
+| Sign off Brand/Customer/Organization Manifesto with Dennis | September | Michele + Dennis | In Progress | Sept 21 meeting held. Dennis sent a couple of messages Oct 5 — Michele hasn't gotten the rest yet. Still waiting on the full set before sending him the updated brand/design and plan (LTOS/roadmap) documents. |
 | Write guidelines for all areas (one sitting) | September | Michele | Not Started | Single working session, not per-node items. |
 | Write Annual Operating Plans for all nodes (one sitting) | October | Michele | Not Started | Single working session. Departmental detail (channel plans, fair criteria, B2B criteria, etc.) lives here, not as separate roadmap items. |
 | Build 2027 commercial calendar | After the AOPs (October/November) | Michele + Dennis | Not Started | Output of the AOPs, not an input to them. |
@@ -33,9 +33,9 @@ This year's slice of the Multi-Year Roadmap's gap-to-project process, applied no
 
 | Task | Timing | Owner | Status | Notes |
 |---|---|---|---|---|
-| SEO strategy per persona (keywords: ecological-function for Luca, benefit-led for Nadia) | Blocked Tue Sept 22, 12:30-15:30 (conditional on Neos's content pulls) | Michele | Blocked | Waiting on Neos's content download, originally requested Sept 17 — followed up Sept 29 with Viola and Kurtis, no reply yet. Early start on the Luca/Nadia gap-to-project work, ahead of the formal AOP sequencing in Workstream 1. |
+| SEO strategy per persona (keywords: ecological-function for Luca, benefit-led for Nadia) | This week, per Michele's Dennis-focused week | Michele | Not Started | Unblocked — Neos (Viola) sent the blog content export Sept 29. Early start on the Luca/Nadia gap-to-project work, ahead of the formal AOP sequencing in Workstream 1. |
 | Content list (articles/how-tos) from the SEO keywords | Follows SEO strategy above | Michele | Not Started | |
-| Rework existing content for the keywords + draft new content list | Follows content list above | Michele + Web Agency | Not Started | Process: Neos downloads Dennis's existing content and sends it to Michele, who reworks it for the site's new buckets. Cross-reference against the commercial calendar once it exists. |
+| Rework existing content for the keywords + draft new content list | Follows content list above | Michele + Web Agency | Not Started | Content download received from Neos Sept 29. Cross-reference against the commercial calendar once it exists. |
 | Founder Story (interview Dennis, write, publish) | Ongoing | Michele + Dennis | Not Started | Content list item, not a separate initiative. |
 | Turin partnership content + documentation | Ongoing | Michele + Dennis | Not Started | Folded together as one content piece — the write-up and the formal documentation are the same effort. |
 | Build press kit | Ongoing | Michele (Marketing, not Brand) | Not Started | Required before any PR outreach begins in Q1 2027. |
@@ -48,7 +48,7 @@ Foundational product data that the site, navigation, and content all depend on.
 |---|---|---|---|---|
 | Resolve rootstock data gaps with Dennis (113 tree-form products) | Ongoing | Dennis | Not Started | Blocking accurate product catalog and site content. |
 | Confirm species-to-ecological-function mapping (Luca) and species-to-health-benefit mapping (Nadia) | Ongoing | Dennis + Michele | Not Started | Required for navigation and content on both persona tracks. |
-| Update filters, link back to product list, send to Neos (Viola) | Bundled into the Tuesday Sept 22 SEO/content block (Workstream 3) | Michele | Not Started | |
+| Update filters, link back to product list, send to Neos (Viola) | This week, per Michele's Dennis-focused week | Michele | Not Started | Neos (Viola) sent the product-info Excel Oct 2 for review. |
 
 ### 5. Site & Operations (Neos Wave)
 Everything Neos Wave is managing or supporting.
@@ -85,3 +85,4 @@ The recurring rhythm that governs everything above — nothing here gets worked 
 - 2026-09-18: Added overall timing note — everything in this file needs to be done by end of 2026, but delivery order within that window can flex. Individual item timing notes are guidance, not hard per-item deadlines; Dec 31, 2026 is the real outer bound.
 - 2026-09-21: Reorganized the flat 23-item list into 6 named workstreams (Strategic Foundation, Multi-Year Roadmap, Brand & Content, Product & Data, Site & Operations, Client Cadence), with detail items filed underneath each rather than one numbered list. No content changed, only structure.
 - 2026-09-29 (weekly review, delayed from Sept 24): Sept 21 Dennis meeting held. Michele is waiting on Dennis for a couple of things before sending him the updated brand/design and plan (LTOS/roadmap) documents. SEO/content work blocked pending Neos's content download, requested Sept 17 — followed up Sept 29, no reply yet.
+- 2026-10-05 (weekly review): Neos delivered — blog content export (Sept 29) and product-info Excel (Oct 2) both received from Viola. SEO strategy, content rework, and the filters/product-data item are all unblocked. Dennis sent a couple of messages Oct 5; Michele hasn't gotten the rest of what she's waiting on yet. Michele is dedicating this week to DBC.

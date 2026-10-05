@@ -12,16 +12,17 @@ _Status values: Not Started · In Progress · Blocked · Complete. Update Status
 | 2 | Fashion System | Write syllabus — topics per lesson, required reading, grading/evaluation scheme | Full day | Nov 2 (hard) | Complete | Done Tue Sept 22 as blocked. Includes exam design and grading approach, not a separate item. |
 | 3 | Fashion System | Lesson planning, all 10 lessons — story arc, time breakdown, in-class activities, before any materials work | Full day | Nov 2 (hard, precedes all materials work) | Complete | Done Wed Sept 23 as blocked. Done for all 10 lessons before starting materials on any of them. |
 | 4 | Fashion System | Create materials — Lesson 1 | Up to a full day | Nov 2 (hard, first class Nov 3) | In Progress | Revise existing content rather than build from scratch. Blocked Thu Sept 24 — presentation mostly done, a few things left to finish. |
-| 5 | Fashion System | Create materials — Lesson 2 | Up to a full day | Nov 10 | Not Started | Blocked Fri Sept 25, 9:00-15:30. |
-| 6 | Fashion System | Create materials — Lesson 3 | Up to a full day | Nov 17 | Not Started | Blocked Tue Sept 29, 9:00-15:30. |
-| 7 | Fashion System | Create materials — Lesson 4 | Up to a full day | Nov 24 | Not Started | Blocked Wed Sept 30, 9:00-15:30. |
-| 8 | Fashion System | Create materials — Lesson 5 | Up to a full day | Dec 1 | Not Started | Blocked Thu Oct 1, 9:00-15:30. |
-| 9 | Fashion System | Create materials — Lesson 6 | Up to a full day | Dec 11 | Not Started | Blocked Fri Oct 2, 9:00-15:30. |
-| 10 | Fashion System | Create materials — Lesson 7 | Up to a full day | Jan 8 | Not Started | Blocked Tue Oct 6, 9:00-15:30. |
-| 11 | Fashion System | Create materials — Lesson 8 | Up to a full day | Jan 15 | Not Started | Blocked Wed Oct 7, 9:00-15:30. |
-| 12 | Fashion System | Create materials — Lesson 9 | Up to a full day | Jan 22 | Not Started | Blocked Thu Oct 8, 9:00-15:30. |
-| 13 | Fashion System | Create/update materials — Lesson 10 (midterm) | Up to a full day | Jan 29 | Not Started | Blocked Fri Oct 9, 9:00-15:30. Finishes the whole course roughly 3.5 weeks ahead of Nov 2. |
-| 14 | Fashion System | All Fashion System materials finalized and course-ready |  | Nov 2, 2026 | Not Started | Course start — hard deadline. |
+| 5 | Fashion System | Create materials — Lesson 2 | Up to a full day | Nov 10 | Complete | Done. |
+| 6 | Fashion System | Create materials — Lesson 3 | Up to a full day | Nov 17 | Complete | Done. |
+| 7 | Fashion System | Create materials — Lesson 4 | Up to a full day | Nov 24 | Complete | Done. |
+| 8 | Fashion System | Create materials — Lesson 5 | Up to a full day | Dec 1 | Complete | Done. |
+| 9 | Fashion System | Create materials — Lesson 6 | Up to a full day | Dec 11 | Complete | Done. |
+| 10 | Fashion System | Create materials — Lesson 7 | Up to a full day | Jan 8 | Complete | Done. |
+| 11 | Fashion System | Create materials — Lesson 8 | Up to a full day | Jan 15 | Complete | Done. |
+| 12 | Fashion System | Create materials — Lesson 9 | Up to a full day | Jan 22 | Complete | Done. |
+| 13 | Fashion System | Create/update materials — Lesson 10 (midterm) | Up to a full day | Jan 29 | Complete | Done. |
+| 14 | Fashion System | All Fashion System materials finalized and course-ready |  | Nov 2, 2026 | Complete | All 10 lessons' materials done, plus case studies for all lessons — done ahead of schedule. |
+| 15 | Fashion System | Finalization pass: re-read all materials, finalize decks, build quizzes (QR codes on decks), finalize exam, set up class trackers | Michele's target: next week | Nov 2, 2026 | Not Started | New workstream per Michele, 2026-10-05. Needs calendar time. |
 | 16 | Fashion Org/Commercialization | Draft 'as-is' syllabus (light update to 2025-26 version) |  |  | Not Started | Option A for IED. |
 | 17 | Fashion Org/Commercialization | Draft proposed restructured syllabus (evaluate splitting into two courses: pre-collection and showcase-ready) |  |  | Not Started | Option B for IED. |
 | 18 | Fashion Org/Commercialization | Submit both syllabus options to IED |  | Dec 1, 2026 | Not Started | Target within Michele's late-Nov/early-Dec window, ahead of IED's class scheduling. |
@@ -47,3 +48,4 @@ _Status values: Not Started · In Progress · Blocked · Complete. Update Status
 - 2026-09-18: Given DBC's end-of-year flexibility, Michele chose to knock out the entire Fashion System course now rather than pace Lessons 2-10 against class dates. Full sequence blocked on the calendar Sept 22 - Oct 7 (syllabus, exam+grading, then Lessons 1-10 two at a time), finishing roughly a month ahead of Nov 2.
 - 2026-09-18: Corrected the task breakdown — "materials" isn't one atomic step per lesson. Real sequence is: syllabus (topics, reading, grading/evaluation, folds in exam design), then lesson planning for all 10 lessons (story arc, time breakdown, activities) done before any materials work, then materials per lesson (up to a full day each, since existing content just needs updating). Rebuilt as full-day calendar blocks, Sept 22 - Oct 9 — finishes about 3.5 weeks ahead of Nov 2.
 - 2026-09-29 (weekly review, delayed from Sept 24): Syllabus and lesson planning for all 10 lessons complete, done as blocked. Lesson 1 materials in progress — presentation mostly done, a few things left. Lessons 2-10 have not been started; their scheduled blocks (Sept 25, 29, 30) have already passed. Calendar needs rescheduling once Michele confirms the plan.
+- 2026-10-05 (weekly review): All 10 lessons' materials complete, plus case studies for every lesson — done ahead of the Nov 2 deadline. New finalization workstream for next week: re-read all materials, finalize decks, build quizzes with QR codes for the decks, finalize the exam, set up class trackers. Item 15 added for this.
