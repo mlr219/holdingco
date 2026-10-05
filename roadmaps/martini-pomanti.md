@@ -13,8 +13,8 @@ _Status values: Not Started · In Progress · Blocked · Complete. Update Status
 | 3 | Brand & Content | Launch Martini Pomanti Instagram with harvest content | URGENT | This week | Michele + O | Not Started |  | Curated and infrequent. Quality over cadence. O handles photography. |
 | 4 | Team & Legal | Formalize E's role and compensation structure | URGENT | This week | Michele | Not Started |  | Lavoratore agricolo classification. INPS contributions. Commercialista to confirm structure. |
 | 5 | Team & Legal | Formalize O's photography and interview role | URGENT | This week | Michele | Not Started |  | Alongside E. Define scope, rate, and cadence. |
-| 6 | Team & Legal | Begin search for agronomist | URGENT | This week | Michele | Not Started |  | Critical for farmer classification process, vineyard compliance, and farming day records. |
-| 7 | Team & Legal | Begin search for commercialista | URGENT | This week | Michele | Not Started |  | Needed for employment structures, company finances, and tax compliance. |
+| 6 | Team & Legal | Begin search for agronomist | URGENT | This week | Michele | Not Started |  | Critical for farmer classification process, vineyard compliance, and farming day records. Funds-dependent: Michele is in a holding pattern until the Valtoria income lands (per Michele, 2026-10-05). |
+| 7 | Team & Legal | Begin search for commercialista | URGENT | This week | Michele | Not Started |  | Needed for employment structures, company finances, and tax compliance. Same funding dependency as item 6. |
 
 **HARVEST COMPLETE. WINEMAKING UNDERWAY. INSTAGRAM LIVE. E AND O ONBOARD.**
 
@@ -102,3 +102,4 @@ _Status values: Not Started · In Progress · Blocked · Complete. Update Status
 ## Change Log
 
 - 2026-09-17: Imported from source spreadsheet by Chief of Staff.
+- 2026-10-05: Corrected the agronomist/commercialista search (items 6, 7) — it does have a dependency after all, just a financial one, not a task one: Michele is in a holding pattern until the Valtoria income lands.

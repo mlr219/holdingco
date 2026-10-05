@@ -6,6 +6,8 @@
 
 _Status values: Not Started · In Progress · Blocked · Complete. Update Status in place as work moves; note material changes at the bottom under Change Log._
 
+**Ownership (2026-10-05 per Michele):** going forward, the Teaching Assistant owns updating this file for coursework items (anything related to lesson content, materials, exams, trackers) — not Michele directly.
+
 | Order | Category | Task | Cadence/Est. | Target/Trigger | Status | Notes |
 |---|---|---|---|---|---|---|
 | 1 | Fashion System | Confirm final exam and makeup exam dates with IED registrar |  | Not confirmable until near end of course | Not Started | Resolved 2026-09-18: this is just how the registrar works, not a blocker to chase. |
@@ -30,7 +32,7 @@ _Status values: Not Started · In Progress · Blocked · Complete. Update Status
 | 20 | Fashion Org/Commercialization | Finalize syllabus per IED decision |  |  | Not Started |  |
 | 21 | Fashion Org/Commercialization | Design final exam (format and content) |  |  | Not Started |  |
 | 22 | Fashion Org/Commercialization | Build grading template |  |  | Not Started |  |
-| 23 | Fashion Org/Commercialization | Create example material (case studies / worked examples for commercialization concepts) |  |  | Not Started |  |
+| 23 | Fashion Org/Commercialization | Create example material (case studies / worked examples for commercialization concepts) |  |  | Complete | Resolved 2026-10-05: using Giulio Censori's material as the student-redo example. |
 | 24 | Fashion Org/Commercialization | Create materials — Lesson 1 |  |  | Not Started | Assumes current 8-lesson structure — adjust if IED approves the restructure. |
 | 25 | Fashion Org/Commercialization | Create materials — Lesson 2 |  |  | Not Started | Assumes current 8-lesson structure — adjust if IED approves the restructure. |
 | 26 | Fashion Org/Commercialization | Create materials — Lesson 3 |  |  | Not Started | Assumes current 8-lesson structure — adjust if IED approves the restructure. |
@@ -49,3 +51,4 @@ _Status values: Not Started · In Progress · Blocked · Complete. Update Status
 - 2026-09-18: Corrected the task breakdown — "materials" isn't one atomic step per lesson. Real sequence is: syllabus (topics, reading, grading/evaluation, folds in exam design), then lesson planning for all 10 lessons (story arc, time breakdown, activities) done before any materials work, then materials per lesson (up to a full day each, since existing content just needs updating). Rebuilt as full-day calendar blocks, Sept 22 - Oct 9 — finishes about 3.5 weeks ahead of Nov 2.
 - 2026-09-29 (weekly review, delayed from Sept 24): Syllabus and lesson planning for all 10 lessons complete, done as blocked. Lesson 1 materials in progress — presentation mostly done, a few things left. Lessons 2-10 have not been started; their scheduled blocks (Sept 25, 29, 30) have already passed. Calendar needs rescheduling once Michele confirms the plan.
 - 2026-10-05 (weekly review): All 10 lessons' materials complete, plus case studies for every lesson — done ahead of the Nov 2 deadline. New finalization workstream for next week: re-read all materials, finalize decks, build quizzes with QR codes for the decks, finalize the exam, set up class trackers. Item 15 added for this. Blocked on the calendar: decks Mon Oct 12, case studies Tue Oct 13, quizzes/exam/trackers Wed Oct 14. Removed the now-complete Lesson 7-10 prep blocks (Oct 6-9) from the calendar.
+- 2026-10-05: Item 23 resolved — using Giulio Censori's material as the student-redo example. Added an ownership note: the Teaching Assistant now owns updating this file for coursework items, not Michele directly. Confirmed Business Thinking and Management is already fully on the calendar (12 lessons, Class A/B, March 4 - May 20, 2027, exam June 3 in two slots).

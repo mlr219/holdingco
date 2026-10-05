@@ -14,14 +14,14 @@ _Status values: Not Started · In Progress · Blocked · Complete. Update Status
 | 4 | Onboarding/Redirect | Coordinate appointment announcement with company comms/PR | 1 day | Week 1 | Not Started | Phase 0 PR, routine executive-move coverage |
 | 5 | Onboarding/Redirect | Brief agency: pause cold consulting-deal outreach | 0.5 day | Week 1 | Not Started |  |
 | 6 | Onboarding/Redirect | Brief agency: redirect to DIY outreach (once ready), podcasts, alumni/network, cold conference-organizer (no-CFP) | 1 day | Week 1-2 | Not Started |  |
-| 7 | Onboarding/Redirect | Brief branding/relationship contact: positioning materials, board bio, association relationship-building | 1 day | Week 1-2 | Not Started |  |
+| 7 | Onboarding/Redirect | Brief branding/relationship contact: positioning materials, board bio, association relationship-building | 1 day | Week 1-2 | In Progress | LinkedIn (personal + MLRCC) updated. Personal branding strategy is next, once the Executive Agent's headhunter/networking work (items 13-14) is through its current push. |
 | 8 | Onboarding/Redirect | Brief PR contact: confirm current active press relationships, align on Phase 1 foundation approach | 1 day | Week 1-2 | Not Started |  |
 | 9 | Onboarding/Redirect | Confirm company's home market(s) to finalize which director institute(s) apply | 0.5 day | Week 1-2 | Not Started |  |
 | 10 | Foundation | Bi-weekly article cadence begins (~half repurposed from existing keynote/case material) | Ongoing, bi-weekly | Week 3 onward | Not Started | Feeds newsletter, LinkedIn, eventual book corpus |
 | 11 | Foundation | Publish articles: website first, then Company Page Article, then personal profile repost | Ongoing | Per article | Not Started | Per Marketing Strategy publishing sequence |
 | 12 | Foundation | Set up newsletter and begin subscriber growth tracking | 1 day setup, then ongoing | Week 3-4 | Not Started | Primary new KPI: subscribers, not deals |
-| 13 | Foundation | Ask existing warm network (Bain, Umbrex, Numa, IED) the board-search question | Ongoing | Week 2 onward | Not Started |  |
-| 14 | Foundation | Contact existing headhunter relationships: confirm board-practice contact, express board interest explicitly | 1-2 days | Week 2-4 | Not Started |  |
+| 13 | Foundation | Ask existing warm network (Bain, Umbrex, Numa, IED) the board-search question | Ongoing | Week 2 onward | In Progress | Executive Agent is now running headhunter outreach and networking maintenance (started by 2026-10-05). |
+| 14 | Foundation | Contact existing headhunter relationships: confirm board-practice contact, express board interest explicitly | 1-2 days | Week 2-4 | In Progress | Same Executive Agent workstream as item 13. |
 | 15 | Foundation | Build director-specific bio | 2-3 days | Week 3-4 | Not Started |  |
 | 16 | Foundation | Research and enroll in certification/cohort program (Nedcommunity TEB or market equivalent) | Research: 2-3 days; program: months | Week 4+ | Not Started | Pending market confirmation |
 | 17 | Foundation | Join relevant director institute(s) and industry associations for active market(s) | 1-2 days | Month 1-2 | Not Started |  |
@@ -40,3 +40,4 @@ _Status values: Not Started · In Progress · Blocked · Complete. Update Status
 ## Change Log
 
 - 2026-09-17: Imported from source spreadsheet by Chief of Staff.
+- 2026-10-05: Corrected status on items 7, 13, 14 — these are actively moving, not stalled. An Executive Agent is now running headhunter outreach and networking maintenance (13, 14). LinkedIn (personal + MLRCC) is updated; personal branding strategy is next (item 7).
